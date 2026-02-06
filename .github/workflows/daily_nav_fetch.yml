@@ -1,0 +1,17 @@
+name: Daily MUFAP NAV Fetch
+
+on:
+  schedule:
+    - cron: "30 21 * * *"   # runs daily (UTC)
+  workflow_dispatch:
+
+jobs:
+  fetch-navs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Call Render cron endpoint
+        run: |
+          curl -X GET \
+          -H "X-CRON-KEY: ${{ secrets.CRON_KEY }}" \
+          https://mufap-nav-api.onrender.com/navs/latest
