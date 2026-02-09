@@ -1,5 +1,7 @@
 import os
 import sqlite3
+import requests
+from bs4 import BeautifulSoup
 from flask import Flask, jsonify, request
 from datetime import datetime
 
@@ -13,7 +15,7 @@ def db():
 
 
 # -----------------------
-# HEALTH CHECK (important)
+# HEALTH CHECK
 # -----------------------
 @app.route("/")
 def home():
@@ -76,17 +78,45 @@ def history(fund):
 
 
 # -----------------------
-# SCRAPER (placeholder)
+# MUFAP SCRAPER (REAL)
 # -----------------------
 def scrape_navs():
-    """
-    This should return a list like:
-    [
-      {"fund": "ABL Cash Fund", "nav": 10.87, "date": "2026-02-06"}
-    ]
-    Replace the body with your existing MUFAP scraper logic.
-    """
-    raise NotImplementedError("scrape_navs() not implemented")
+    url = "https://www.mufap.com.pk/Industry/IndustryStatDaily?tab=3"
+    headers = {
+        "User-Agent": "Mozilla/5.0"
+    }
+
+    response = requests.get(url, headers=headers, timeout=30)
+    response.raise_for_status()
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    rows = soup.select("table tbody tr")
+
+    data = []
+
+    for row in rows:
+        cols = [td.get_text(strip=True) for td in row.find_all("td")]
+
+        # We need at least Fund, NAV, Validity Date
+        if len(cols) < 9:
+            continue
+
+        fund = cols[2].strip()
+        nav_text = cols[7].replace(",", "")
+        nav_date = cols[8].strip()
+
+        try:
+            nav = float(nav_text)
+        except ValueError:
+            continue
+
+        data.append({
+            "fund": fund,
+            "nav": nav,
+            "date": nav_date
+        })
+
+    return data
 
 
 # -----------------------
@@ -111,7 +141,7 @@ def save_navs(data):
 
 
 # -----------------------
-# CRON ENDPOINT (GitHub Actions)
+# CRON ENDPOINT
 # -----------------------
 @app.route("/cron/fetch")
 def cron_fetch():
@@ -131,7 +161,7 @@ def cron_fetch():
 
 
 # -----------------------
-# ENTRY POINT (Render-safe)
+# ENTRY POINT
 # -----------------------
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
