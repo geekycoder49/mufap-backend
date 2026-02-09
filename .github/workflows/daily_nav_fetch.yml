@@ -2,7 +2,8 @@ name: Daily MUFAP NAV Fetch
 
 on:
   schedule:
-    - cron: "30 21 * * *"   # runs daily (UTC)
+    - cron: "0 5 * * *"     # 9:00 PM PST
+    - cron: "30 6 * * *"    # 10:30 PM PST
   workflow_dispatch:
 
 jobs:
@@ -14,4 +15,4 @@ jobs:
         run: |
           curl -X GET \
           -H "X-CRON-KEY: ${{ secrets.CRON_KEY }}" \
-          https://mufap-nav-api.onrender.com/navs/latest
+          https://mufap-nav-api.onrender.com/cron/fetch
