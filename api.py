@@ -62,19 +62,19 @@ def fund_returns():
 
     results = []
 
- def to_float(val):
-    if not val:
-        return None
+    def to_float(val):
+        if not val:
+            return None
 
-    val = val.replace("%", "").strip()
+        val = val.replace("%", "").strip()
 
-    try:
-        # Handle negative values in brackets
-        if val.startswith("(") and val.endswith(")"):
-            return -float(val[1:-1])
-        return float(val)
-    except:
-        return None
+        try:
+            # (1.81) → -1.81
+            if val.startswith("(") and val.endswith(")"):
+                return -float(val[1:-1])
+            return float(val)
+        except:
+            return None
 
     for row in rows:
         cols = [c.get_text(strip=True) for c in row.find_all("td")]
@@ -109,5 +109,6 @@ def fund_returns():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+
 
 
