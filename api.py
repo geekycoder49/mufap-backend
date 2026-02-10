@@ -76,15 +76,15 @@ def fund_returns():
         results.append({
             "fund": cols[2],
             "returns": {
-                "1d": to_float(cols[4]),
-                "15d": to_float(cols[5]),
-                "30d": to_float(cols[6]),
-                "90d": to_float(cols[7]),
-                "180d": to_float(cols[8]),
-                "270d": to_float(cols[9]),
-                "365d": to_float(cols[10]),
-                "2y": to_float(cols[11]),
-                "3y": to_float(cols[12])
+                "1d": to_float(cols[9]),
+                "15d": to_float(cols[10]),
+                "30d": to_float(cols[11]),
+                "90d": to_float(cols[12]),
+                "180d": to_float(cols[13]),
+                "270d": to_float(cols[14]),
+                "365d": to_float(cols[15]),
+                "2y": to_float(cols[16]),
+                "3y": to_float(cols[17])
             }
         })
 
@@ -101,3 +101,4 @@ def fund_returns():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+
