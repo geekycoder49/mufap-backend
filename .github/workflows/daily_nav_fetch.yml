@@ -1,5 +1,8 @@
 name: Daily MUFAP NAV Fetch
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 5 * * *"     # 9:00 PM PST
