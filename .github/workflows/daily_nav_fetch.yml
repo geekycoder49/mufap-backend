@@ -11,8 +11,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Call Render cron endpoint
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
         run: |
-          curl -X GET \
-          -H "X-CRON-KEY: ${{ secrets.CRON_KEY }}" \
-          https://mufap-nav-api.onrender.com/cron/fetch
+          pip install requests beautifulsoup4
+
+      - name: Run MUFAP scraper
+        run: |
+          python .github/scripts/fetch_navs.py
+
+      - name: Commit updated DB
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add navs.db
+          git commit -m "Daily MUFAP NAV update" || echo "No changes"
+          git push
