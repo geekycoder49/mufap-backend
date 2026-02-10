@@ -126,9 +126,17 @@ def save_navs(data):
     conn = db()
     c = conn.cursor()
 
+    today = data[0]["date"] if data else None
+
+    if today:
+        c.execute(
+            "DELETE FROM nav_history WHERE nav_date = ?",
+            (today,)
+        )
+
     for item in data:
         c.execute("""
-            INSERT OR IGNORE INTO nav_history (fund, nav, nav_date)
+            INSERT INTO nav_history (fund, nav, nav_date)
             VALUES (?, ?, ?)
         """, (
             item["fund"],
@@ -166,3 +174,4 @@ def cron_fetch():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+
