@@ -30,12 +30,14 @@ def latest_navs():
 
     for row in rows:
         cols = [c.get_text(strip=True) for c in row.find_all("td")]
+
         if len(cols) < 9:
             continue
 
         try:
             navs.append({
                 "fund": cols[2],
+                "category": cols[3],   # ✅ NEW FIELD
                 "nav": float(cols[7]),
                 "date": cols[8]
             })
@@ -109,6 +111,7 @@ def fund_returns():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+
 
 
 
