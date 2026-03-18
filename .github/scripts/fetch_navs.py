@@ -52,3 +52,19 @@ if __name__ == "__main__":
     navs = scrape_navs()
     save(navs)
     print(f"Saved {len(navs)} NAV records")
+
+import json
+
+def save_json(data):
+    with open("navs.json", "w") as f:
+        json.dump({
+            "count": len(data),
+            "data": data
+        }, f, indent=2)
+
+
+if __name__ == "__main__":
+    navs = scrape_navs()
+    save(navs)
+    save_json(navs)   # 👈 ADD THIS
+    print(f"Saved {len(navs)} NAV records")
