@@ -2,9 +2,11 @@ import sqlite3
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+import json
 
 DB_PATH = "navs.db"
 MUFAP_URL = "https://www.mufap.com.pk/Industry/IndustryStatDaily?tab=3"
+
 
 def scrape_navs():
     res = requests.get(MUFAP_URL, timeout=30)
@@ -48,13 +50,6 @@ def save(data):
     conn.close()
 
 
-if __name__ == "__main__":
-    navs = scrape_navs()
-    save(navs)
-    print(f"Saved {len(navs)} NAV records")
-
-import json
-
 def save_json(data):
     with open("navs.json", "w") as f:
         json.dump({
@@ -62,9 +57,12 @@ def save_json(data):
             "data": data
         }, f, indent=2)
 
+    print("navs.json updated with", len(data), "records")
 
+
+# ✅ SINGLE entry point
 if __name__ == "__main__":
     navs = scrape_navs()
     save(navs)
-    save_json(navs)   # 👈 ADD THIS
+    save_json(navs)
     print(f"Saved {len(navs)} NAV records")
