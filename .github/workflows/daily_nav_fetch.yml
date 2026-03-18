@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add navs.db
+          git add navs.db navs.json
           git commit -m "Daily MUFAP NAV update" || echo "No changes"
           git push
