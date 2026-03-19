@@ -1,5 +1,5 @@
 {
-  "count": 522,
+  "count": 521,
   "data": [
     {
       "fund": "786 Islamic Money Market Fund",
@@ -68,13 +68,13 @@
     },
     {
       "fund": "ABL Financial Planning Fund (Conservative Plan)",
-      "nav": 118.8234,
-      "date": "2026-03-17"
+      "nav": 119.1622,
+      "date": "2026-03-18"
     },
     {
       "fund": "ABL Financial Planning Fund (Strategic Allocation Plan)",
-      "nav": 90.5199,
-      "date": "2026-03-17"
+      "nav": 92.7416,
+      "date": "2026-03-18"
     },
     {
       "fund": "ABL Financial Sector Fund Plan I",
@@ -128,23 +128,23 @@
     },
     {
       "fund": "ABL Islamic Financial Planning Fund (Active Allocation Plan)",
-      "nav": 91.8392,
-      "date": "2026-03-17"
+      "nav": 94.4385,
+      "date": "2026-03-18"
     },
     {
       "fund": "ABL Islamic Financial Planning Fund (Capital Preservation Plan I)",
-      "nav": 108.9548,
-      "date": "2026-03-17"
+      "nav": 109.8963,
+      "date": "2026-03-18"
     },
     {
       "fund": "ABL Islamic Financial Planning Fund (Conservative Allocation Plan)",
-      "nav": 123.4974,
-      "date": "2026-03-17"
+      "nav": 123.5267,
+      "date": "2026-03-18"
     },
     {
       "fund": "ABL Islamic Fixed Term Plan V",
-      "nav": 10.0609,
-      "date": "2026-03-18"
+      "nav": 10.0636,
+      "date": "2026-03-19"
     },
     {
       "fund": "ABL Islamic Income Fund",
@@ -493,28 +493,28 @@
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (Aggressive)",
-      "nav": 163.7075,
-      "date": "2026-03-17"
+      "nav": 167.5049,
+      "date": "2026-03-18"
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (Conservative)",
-      "nav": 117.7593,
-      "date": "2026-03-17"
+      "nav": 118.7264,
+      "date": "2026-03-18"
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (MAAP I)",
-      "nav": 124.9436,
-      "date": "2026-03-17"
+      "nav": 128.6132,
+      "date": "2026-03-18"
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (Moderate)",
-      "nav": 134.9951,
-      "date": "2026-03-17"
+      "nav": 137.0959,
+      "date": "2026-03-18"
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (Very Conservative Allocation Plan)",
-      "nav": 54.0777,
-      "date": "2026-03-17"
+      "nav": 54.0919,
+      "date": "2026-03-18"
     },
     {
       "fund": "Meezan Gold Fund",
@@ -850,11 +850,6 @@
       "fund": "Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan III)",
       "nav": 106.5607,
       "date": "2026-03-18"
-    },
-    {
-      "fund": "Alfalah Islamic Stable Return Fund Plan  X",
-      "nav": 102.6128,
-      "date": "2026-03-11"
     },
     {
       "fund": "Alfalah Islamic Stable Return Fund Plan XII",
@@ -1237,11 +1232,6 @@
       "date": "2026-03-18"
     },
     {
-      "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XV)",
-      "nav": 100.0,
-      "date": "2026-03-11"
-    },
-    {
       "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XVI)",
       "nav": 100.5848,
       "date": "2026-03-18"
@@ -1413,8 +1403,8 @@
     },
     {
       "fund": "HBL Islamic Money Market Fund",
-      "nav": 108.5435,
-      "date": "2026-03-18"
+      "nav": 108.57,
+      "date": "2026-03-19"
     },
     {
       "fund": "HBL Islamic Savings Plan I",
@@ -1732,6 +1722,11 @@
       "date": "2026-03-18"
     },
     {
+      "fund": "Lucky Islamic Fixed Term Fund Plan XIII",
+      "nav": 100.0,
+      "date": "2026-03-16"
+    },
+    {
       "fund": "Lucky Islamic Income Fund",
       "nav": 107.4914,
       "date": "2026-03-18"
@@ -1743,8 +1738,8 @@
     },
     {
       "fund": "Lucky Islamic Pension Fund",
-      "nav": 113.8589,
-      "date": "2026-03-17"
+      "nav": 110.1798,
+      "date": "2026-03-18"
     },
     {
       "fund": "Lucky Islamic Stock Fund",
@@ -2023,8 +2018,8 @@
     },
     {
       "fund": "NIT Pension Fund",
-      "nav": 56.5775,
-      "date": "2026-03-17"
+      "nav": 54.9417,
+      "date": "2026-03-18"
     },
     {
       "fund": "NIT Social Impact Fund",
