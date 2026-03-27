@@ -36,15 +36,34 @@ def scrape_navs():
     return data
 
 
+# 🔥 NEW: fund resolver
+def get_or_create_fund(cursor, fund_name):
+    cursor.execute("SELECT id FROM funds WHERE name = ?", (fund_name,))
+    row = cursor.fetchone()
+
+    if row:
+        return row[0]
+
+    cursor.execute("INSERT INTO funds (name) VALUES (?)", (fund_name,))
+    return cursor.lastrowid
+
+
 def save(data):
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
 
     for d in data:
+        fund_id = get_or_create_fund(c, d["fund"])
+
         c.execute("""
-        INSERT OR IGNORE INTO nav_history (fund, nav, nav_date)
-        VALUES (?, ?, ?)
-        """, (d["fund"], d["nav"], d["date"]))
+        INSERT OR IGNORE INTO nav_history (fund_id, nav, nav_date, fetched_at)
+        VALUES (?, ?, ?, ?)
+        """, (
+            fund_id,
+            d["nav"],
+            d["date"],
+            datetime.utcnow().isoformat()
+        ))
 
     conn.commit()
     conn.close()
