@@ -3,13 +3,13 @@
   "data": [
     {
       "fund": "786 Islamic Money Market Fund",
-      "nav": 107.3266,
-      "date": "2026-03-26"
+      "nav": 107.3523,
+      "date": "2026-03-27"
     },
     {
       "fund": "786 Smart Fund",
-      "nav": 90.0147,
-      "date": "2026-03-26"
+      "nav": 90.0355,
+      "date": "2026-03-27"
     },
     {
       "fund": "ABL Islamic Pension Fund",
@@ -143,8 +143,8 @@
     },
     {
       "fund": "ABL Islamic Fixed Term Plan V",
-      "nav": 10.0829,
-      "date": "2026-03-26"
+      "nav": 10.0856,
+      "date": "2026-03-27"
     },
     {
       "fund": "ABL Islamic Income Fund",
@@ -1238,8 +1238,8 @@
     },
     {
       "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XVII)",
-      "nav": 100.8162,
-      "date": "2026-03-26"
+      "nav": 100.0,
+      "date": "2026-03-27"
     },
     {
       "fund": "Faysal Islamic Savings Growth Fund",
@@ -1358,13 +1358,13 @@
     },
     {
       "fund": "HBL Growth Fund-Class A",
-      "nav": 0.0,
-      "date": "2026-03-18"
+      "nav": 40.4055,
+      "date": "2026-03-26"
     },
     {
       "fund": "HBL Growth Fund-Class B",
-      "nav": 35.1346,
-      "date": "2026-03-17"
+      "nav": 35.8319,
+      "date": "2026-03-26"
     },
     {
       "fund": "HBL Income Fund",
@@ -1663,8 +1663,8 @@
     },
     {
       "fund": "Lakson Islamic Money Market Fund",
-      "nav": 108.6507,
-      "date": "2026-03-26"
+      "nav": 108.6796,
+      "date": "2026-03-27"
     },
     {
       "fund": "Lakson Islamic Tactical Fund",
@@ -1673,13 +1673,13 @@
     },
     {
       "fund": "Lakson Money Market Fund",
-      "nav": 110.3203,
-      "date": "2026-03-26"
+      "nav": 110.347,
+      "date": "2026-03-27"
     },
     {
       "fund": "Lakson Tactical Fund",
-      "nav": 109.5776,
-      "date": "2026-03-25"
+      "nav": 107.394,
+      "date": "2026-03-26"
     },
     {
       "fund": "Lucky Islamic Pension Fund",
@@ -2573,8 +2573,8 @@
     },
     {
       "fund": "UBL Liquidity Fund",
-      "nav": 105.6538,
-      "date": "2026-03-26"
+      "nav": 105.6822,
+      "date": "2026-03-27"
     },
     {
       "fund": "UBL Liquidity Plus Fund",
