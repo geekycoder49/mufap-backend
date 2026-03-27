@@ -10,6 +10,36 @@ RETURNS_URL = "https://www.mufap.com.pk/Industry/IndustryStatDaily?tab=1"
 
 
 # -----------------------
+# INIT DB (🔥 NEW)
+# -----------------------
+def init_db():
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+
+    c.execute("""
+    CREATE TABLE IF NOT EXISTS funds (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        name TEXT UNIQUE
+    )
+    """)
+
+    c.execute("""
+    CREATE TABLE IF NOT EXISTS nav_history (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        fund_id INTEGER,
+        nav REAL,
+        nav_date TEXT,
+        fetched_at TEXT,
+        UNIQUE(fund_id, nav_date),
+        FOREIGN KEY(fund_id) REFERENCES funds(id)
+    )
+    """)
+
+    conn.commit()
+    conn.close()
+
+
+# -----------------------
 # NAV SCRAPER
 # -----------------------
 def scrape_navs():
@@ -159,6 +189,8 @@ def save_returns_json(data):
 # MAIN ENTRY
 # -----------------------
 if __name__ == "__main__":
+    init_db()  # 🔥 CRITICAL FIX
+
     navs = scrape_navs()
     save(navs)
     save_json(navs)
