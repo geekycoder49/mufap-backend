@@ -83,23 +83,23 @@
     },
     {
       "fund": "ABL Fixed Rate Plan XIX",
-      "nav": 10.7916,
-      "date": "2026-03-28"
+      "nav": 10.7948,
+      "date": "2026-03-29"
     },
     {
       "fund": "ABL Fixed Rate Plan XXII",
-      "nav": 10.3464,
-      "date": "2026-03-28"
+      "nav": 10.3493,
+      "date": "2026-03-29"
     },
     {
       "fund": "ABL Fixed Rate Plan XXIII",
-      "nav": 10.322,
-      "date": "2026-03-28"
+      "nav": 10.3249,
+      "date": "2026-03-29"
     },
     {
       "fund": "ABL Fixed Rate Plan XXIV",
-      "nav": 10.1211,
-      "date": "2026-03-28"
+      "nav": 10.124,
+      "date": "2026-03-29"
     },
     {
       "fund": "ABL Government Securities Fund",
@@ -123,8 +123,8 @@
     },
     {
       "fund": "ABL Islamic Dedicated Stock Fund",
-      "nav": 16.3407,
-      "date": "2026-03-27"
+      "nav": 16.3365,
+      "date": "2026-03-29"
     },
     {
       "fund": "ABL Islamic Financial Planning Fund (Active Allocation Plan)",
@@ -178,23 +178,23 @@
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan I)",
-      "nav": 10.8746,
-      "date": "2026-03-27"
+      "nav": 10.8778,
+      "date": "2026-03-28"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan II)",
-      "nav": 11.3515,
-      "date": "2026-03-27"
+      "nav": 11.3546,
+      "date": "2026-03-28"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan III)",
-      "nav": 10.938,
-      "date": "2026-03-27"
+      "nav": 10.941,
+      "date": "2026-03-28"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan IV)",
-      "nav": 10.2079,
-      "date": "2026-03-27"
+      "nav": 10.2109,
+      "date": "2026-03-28"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan V)",
@@ -1043,8 +1043,8 @@
     },
     {
       "fund": "Atlas Money Market Fund",
-      "nav": 552.0045,
-      "date": "2026-03-27"
+      "nav": 552.1594,
+      "date": "2026-03-28"
     },
     {
       "fund": "Atlas Sovereign Fund",
@@ -2003,7 +2003,7 @@
     },
     {
       "fund": "NIT Islamic Income Fund",
-      "nav": 11.0461,
+      "nav": 10.3781,
       "date": "2026-03-29"
     },
     {
@@ -2243,8 +2243,8 @@
     },
     {
       "fund": "NBP Islamic Sarmaya Izafa Fund",
-      "nav": 32.1402,
-      "date": "2026-03-27"
+      "nav": 32.1379,
+      "date": "2026-03-28"
     },
     {
       "fund": "NBP Islamic Savings Fund",
@@ -2253,8 +2253,8 @@
     },
     {
       "fund": "NBP Islamic Stock Fund",
-      "nav": 22.1011,
-      "date": "2026-03-27"
+      "nav": 22.099,
+      "date": "2026-03-28"
     },
     {
       "fund": "NBP Mahana Amdani Fund",
@@ -2288,8 +2288,8 @@
     },
     {
       "fund": "NBP Stock Fund",
-      "nav": 38.512,
-      "date": "2026-03-27"
+      "nav": 38.5086,
+      "date": "2026-03-28"
     },
     {
       "fund": "Askari Cash Fund",
@@ -2359,7 +2359,7 @@
     {
       "fund": "Pak Qatar Daily Dividend Plan",
       "nav": 100.0,
-      "date": "2026-03-29"
+      "date": "2026-03-30"
     },
     {
       "fund": "Pak Qatar Income Plan",
@@ -2388,13 +2388,13 @@
     },
     {
       "fund": "Pak Qatar Islamic Pension Fund",
-      "nav": 165.4228,
-      "date": "2026-03-27"
+      "nav": 165.4638,
+      "date": "2026-03-28"
     },
     {
       "fund": "Pak Qatar Islamic Pension Fund",
-      "nav": 280.8097,
-      "date": "2026-03-27"
+      "nav": 280.8023,
+      "date": "2026-03-28"
     },
     {
       "fund": "Pak Qatar GoKP Islamic Pension Fund",
@@ -2408,8 +2408,8 @@
     },
     {
       "fund": "Pak Qatar Islamic Pension Fund",
-      "nav": 162.2162,
-      "date": "2026-03-27"
+      "nav": 162.2519,
+      "date": "2026-03-28"
     },
     {
       "fund": "Al Ameen Islamic Retirement Savings Fund",
@@ -2573,8 +2573,8 @@
     },
     {
       "fund": "UBL Liquidity Fund",
-      "nav": 105.6822,
-      "date": "2026-03-27"
+      "nav": 105.7677,
+      "date": "2026-03-30"
     },
     {
       "fund": "UBL Liquidity Plus Fund",
