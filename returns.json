@@ -2090,7 +2090,7 @@
     {
       "fund": "NBP Fixed Term Munafa Plan XIB (NBP Mustahkam Fund II)",
       "returns": {
-        "1d": 297.11,
+        "1d": null,
         "15d": 19.81,
         "30d": 9.9,
         "90d": null,
@@ -2174,7 +2174,7 @@
     {
       "fund": "NBP Fixed Term Munafa Plan XXA (NBP Mustahkam Fund II)",
       "returns": {
-        "1d": -103.3,
+        "1d": null,
         "15d": -6.89,
         "30d": -3.44,
         "90d": null,
@@ -2734,13 +2734,13 @@
     {
       "fund": "Alfalah Strategic Allocation Fund Plan - I",
       "returns": {
-        "1d": null,
-        "15d": -0.02,
-        "30d": -0.1,
-        "90d": -6.96,
-        "180d": -0.16,
-        "270d": 21.45,
-        "365d": 24.89,
+        "1d": 0.14,
+        "15d": 0.23,
+        "30d": -0.02,
+        "90d": -7.22,
+        "180d": -1.65,
+        "270d": 21.55,
+        "365d": 25.13,
         "2y": null,
         "3y": null
       }
@@ -5072,43 +5072,43 @@
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II)",
       "returns": {
-        "1d": -3.46,
-        "15d": -3.41,
-        "30d": -10.67,
-        "90d": -14.39,
-        "180d": -12.67,
-        "270d": -3.35,
-        "365d": -1.66,
-        "2y": 61.71,
-        "3y": 131.41
+        "1d": 4.33,
+        "15d": 4.41,
+        "30d": 3.41,
+        "90d": -9.77,
+        "180d": -8.22,
+        "270d": 2.16,
+        "365d": 3.96,
+        "2y": 70.98,
+        "3y": 144.64
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan)",
       "returns": {
-        "1d": -0.68,
-        "15d": -0.5,
-        "30d": -1.66,
-        "90d": -1.24,
-        "180d": 0.06,
-        "270d": 5.66,
-        "365d": 8.81,
-        "2y": 36.21,
-        "3y": 71.24
+        "1d": 0.8,
+        "15d": 0.96,
+        "30d": 1.06,
+        "90d": -0.28,
+        "180d": 0.9,
+        "270d": 6.76,
+        "365d": 9.95,
+        "2y": 37.6,
+        "3y": 73.11
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan)",
       "returns": {
-        "1d": -1.25,
-        "15d": -1.01,
-        "30d": -3.07,
-        "90d": -2.96,
-        "180d": -1.51,
-        "270d": 7.33,
-        "365d": 10.94,
-        "2y": 53.11,
-        "3y": 97.84
+        "1d": 1.51,
+        "15d": 1.71,
+        "30d": 0.61,
+        "90d": -1.08,
+        "180d": 0.14,
+        "270d": 9.44,
+        "365d": 13.16,
+        "2y": 56.18,
+        "3y": 101.83
       }
     },
     {
@@ -5184,11 +5184,11 @@
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan I)",
       "returns": {
-        "1d": 0.33,
-        "15d": 0.43,
-        "30d": -1.11,
-        "90d": 0.4,
-        "180d": 3.3,
+        "1d": 1.0,
+        "15d": 1.27,
+        "30d": 1.42,
+        "90d": 1.05,
+        "180d": 4.24,
         "270d": null,
         "365d": null,
         "2y": null,
@@ -6472,10 +6472,10 @@
     {
       "fund": "Lucky Islamic Pension Fund",
       "returns": {
-        "1d": 2.57,
-        "15d": 2.75,
-        "30d": -1.57,
-        "90d": 15.65,
+        "1d": -1.04,
+        "15d": 0.4,
+        "30d": -4.22,
+        "90d": 14.45,
         "180d": null,
         "270d": null,
         "365d": null,
@@ -6822,14 +6822,14 @@
     {
       "fund": "Mahaana Islamic Index Exchange Traded Fund",
       "returns": {
-        "1d": 1.47,
-        "15d": 1.4,
-        "30d": -8.6,
-        "90d": -13.88,
-        "180d": -14.41,
-        "270d": 10.55,
-        "365d": 14.77,
-        "2y": 74.97,
+        "1d": 4.14,
+        "15d": 4.97,
+        "30d": 5.39,
+        "90d": -11.02,
+        "180d": -11.12,
+        "270d": 15.13,
+        "365d": 19.53,
+        "2y": 82.22,
         "3y": null
       }
     },
