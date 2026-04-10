@@ -214,15 +214,15 @@
     {
       "fund": "JS Money Market Fund",
       "returns": {
-        "1d": 11.61,
-        "15d": 10.01,
-        "30d": 10.02,
-        "90d": 10.13,
-        "180d": 10.04,
+        "1d": 8.47,
+        "15d": 9.9,
+        "30d": 9.97,
+        "90d": 10.11,
+        "180d": 10.03,
         "270d": 10.55,
         "365d": 10.73,
-        "2y": 15.03,
-        "3y": 19.76
+        "2y": 15.08,
+        "3y": 19.77
       }
     },
     {
@@ -2748,13 +2748,13 @@
     {
       "fund": "Alfalah Strategic Allocation Fund Plan - I",
       "returns": {
-        "1d": 0.34,
-        "15d": 0.33,
-        "30d": 0.6,
-        "90d": -10.57,
-        "180d": 1.42,
-        "270d": 19.95,
-        "365d": 27.39,
+        "1d": null,
+        "15d": 0.31,
+        "30d": 0.3,
+        "90d": -10.01,
+        "180d": 1.44,
+        "270d": 19.97,
+        "365d": 28.54,
         "2y": null,
         "3y": null
       }
@@ -4526,9 +4526,9 @@
     {
       "fund": "Meezan Paidaar Munafa Plan 34",
       "returns": {
-        "1d": 11.53,
-        "15d": 12.28,
-        "30d": 7.14,
+        "1d": 11.57,
+        "15d": 13.54,
+        "30d": 8.75,
         "90d": null,
         "180d": null,
         "270d": null,
@@ -4540,9 +4540,9 @@
     {
       "fund": "Meezan Paidaar Munafa Plan 39",
       "returns": {
-        "1d": 9.75,
-        "15d": 9.79,
-        "30d": 9.83,
+        "1d": 9.82,
+        "15d": 9.78,
+        "30d": 9.82,
         "90d": null,
         "180d": null,
         "270d": null,
@@ -4554,7 +4554,7 @@
     {
       "fund": "Meezan Paidaar Munafa Plan 40",
       "returns": {
-        "1d": 10.11,
+        "1d": 10.18,
         "15d": null,
         "30d": null,
         "90d": null,
@@ -4569,8 +4569,8 @@
       "fund": "Meezan Paidaar Munafa Plan 41",
       "returns": {
         "1d": 10.15,
-        "15d": 10.25,
-        "30d": null,
+        "15d": 10.24,
+        "30d": 9.56,
         "90d": null,
         "180d": null,
         "270d": null,
@@ -4582,7 +4582,7 @@
     {
       "fund": "Meezan Paidaar Munafa Plan 42",
       "returns": {
-        "1d": 20.48,
+        "1d": 3.5,
         "15d": null,
         "30d": null,
         "90d": null,
@@ -5058,43 +5058,43 @@
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II)",
       "returns": {
-        "1d": 9.03,
-        "15d": 8.2,
-        "30d": 13.28,
-        "90d": -6.21,
-        "180d": -0.13,
-        "270d": 8.74,
-        "365d": 12.48,
-        "2y": 79.42,
-        "3y": 160.61
+        "1d": -0.12,
+        "15d": 4.42,
+        "30d": 6.4,
+        "90d": -5.62,
+        "180d": -0.25,
+        "270d": 8.61,
+        "365d": 12.97,
+        "2y": 77.88,
+        "3y": 160.33
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan)",
       "returns": {
-        "1d": 1.7,
-        "15d": 1.73,
-        "30d": 2.82,
-        "90d": 0.33,
-        "180d": 2.87,
-        "270d": 7.79,
-        "365d": 11.89,
-        "2y": 38.45,
-        "3y": 75.01
+        "1d": -0.01,
+        "15d": 1.09,
+        "30d": 1.66,
+        "90d": 0.48,
+        "180d": 2.85,
+        "270d": 7.76,
+        "365d": 12.05,
+        "2y": 38.18,
+        "3y": 74.87
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan)",
       "returns": {
-        "1d": 3.12,
-        "15d": 2.99,
-        "30d": 5.36,
-        "90d": 0.62,
-        "180d": 3.53,
-        "270d": 11.29,
-        "365d": 17.22,
-        "2y": 57.73,
-        "3y": 106.07
+        "1d": -0.03,
+        "15d": 1.69,
+        "30d": 2.67,
+        "90d": 0.78,
+        "180d": 3.49,
+        "270d": 11.24,
+        "365d": 17.72,
+        "2y": 57.11,
+        "3y": 106.47
       }
     },
     {
