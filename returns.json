@@ -2720,55 +2720,55 @@
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Active Allocation Plan)",
       "returns": {
-        "1d": 3.87,
-        "15d": 14.72,
-        "30d": 7.4,
-        "90d": -8.78,
-        "180d": -0.65,
-        "270d": 17.76,
-        "365d": 34.07,
-        "2y": 130.78,
-        "3y": 240.98
+        "1d": 0.91,
+        "15d": 10.73,
+        "30d": 13.32,
+        "90d": -7.08,
+        "180d": 2.75,
+        "270d": 21.17,
+        "365d": 38.91,
+        "2y": 136.31,
+        "3y": 250.52
       }
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Conservative Allocation Plan)",
       "returns": {
-        "1d": 0.82,
-        "15d": 3.11,
-        "30d": 1.96,
-        "90d": 0.15,
-        "180d": 4.06,
-        "270d": 10.02,
-        "365d": 15.71,
-        "2y": 53.88,
-        "3y": 95.72
+        "1d": 0.21,
+        "15d": 2.48,
+        "30d": 3.17,
+        "90d": 0.56,
+        "180d": 4.8,
+        "270d": 10.71,
+        "365d": 16.6,
+        "2y": 54.65,
+        "3y": 96.65
       }
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Moderate Allocation Plan)",
       "returns": {
-        "1d": 0.75,
-        "15d": 2.75,
-        "30d": 1.72,
-        "90d": -0.27,
-        "180d": 3.96,
-        "270d": 12.45,
-        "365d": 20.8,
-        "2y": 69.95,
-        "3y": 131.49
+        "1d": 0.2,
+        "15d": 2.19,
+        "30d": 2.8,
+        "90d": -0.04,
+        "180d": 4.74,
+        "270d": 13.11,
+        "365d": 21.81,
+        "2y": 70.58,
+        "3y": 132.57
       }
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Capital Preservation Plan IV)",
       "returns": {
-        "1d": 1.69,
-        "15d": 6.26,
-        "30d": 3.22,
-        "90d": -2.74,
-        "180d": 3.05,
-        "270d": 9.89,
-        "365d": 19.42,
+        "1d": 0.41,
+        "15d": 4.82,
+        "30d": 5.81,
+        "90d": -2.04,
+        "180d": 4.51,
+        "270d": 11.33,
+        "365d": 21.39,
         "2y": null,
         "3y": null
       }
@@ -2776,13 +2776,13 @@
     {
       "fund": "Alfalah Strategic Allocation Fund Plan - I",
       "returns": {
-        "1d": 0.18,
-        "15d": 0.78,
-        "30d": 0.84,
-        "90d": -9.06,
-        "180d": 1.62,
-        "270d": 19.51,
-        "365d": 25.2,
+        "1d": -0.03,
+        "15d": 0.6,
+        "30d": 0.83,
+        "90d": -10.49,
+        "180d": 1.6,
+        "270d": 19.48,
+        "365d": 26.21,
         "2y": null,
         "3y": null
       }
@@ -5100,43 +5100,43 @@
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II)",
       "returns": {
-        "1d": 1.55,
-        "15d": 13.02,
-        "30d": 13.81,
-        "90d": -3.21,
-        "180d": 0.99,
-        "270d": 10.77,
-        "365d": 12.85,
-        "2y": 79.48,
-        "3y": 162.84
+        "1d": 0.65,
+        "15d": 9.04,
+        "30d": 13.85,
+        "90d": -4.62,
+        "180d": 1.64,
+        "270d": 11.49,
+        "365d": 14.28,
+        "2y": 81.01,
+        "3y": 164.26
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan)",
       "returns": {
-        "1d": 0.32,
-        "15d": 2.6,
-        "30d": 2.9,
-        "90d": 0.97,
-        "180d": 3.08,
-        "270d": 8.41,
-        "365d": 11.69,
-        "2y": 38.2,
-        "3y": 74.98
+        "1d": 0.15,
+        "15d": 1.94,
+        "30d": 2.92,
+        "90d": 0.63,
+        "180d": 3.23,
+        "270d": 8.55,
+        "365d": 12.07,
+        "2y": 38.4,
+        "3y": 74.97
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan)",
       "returns": {
-        "1d": 0.61,
-        "15d": 4.65,
-        "30d": 5.09,
-        "90d": 1.56,
-        "180d": 4.02,
-        "270d": 12.72,
-        "365d": 16.85,
-        "2y": 57.43,
-        "3y": 107.07
+        "1d": 0.27,
+        "15d": 3.37,
+        "30d": 5.13,
+        "90d": 1.19,
+        "180d": 4.31,
+        "270d": 13.01,
+        "365d": 17.81,
+        "2y": 57.95,
+        "3y": 107.31
       }
     },
     {
