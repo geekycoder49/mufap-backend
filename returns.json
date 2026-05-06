@@ -1,5 +1,5 @@
 {
-  "count": 540,
+  "count": 539,
   "data": [
     {
       "fund": "ABL Cash Fund",
@@ -4446,20 +4446,6 @@
         "15d": 9.92,
         "30d": 9.95,
         "90d": null,
-        "180d": null,
-        "270d": null,
-        "365d": null,
-        "2y": null,
-        "3y": null
-      }
-    },
-    {
-      "fund": "Alfalah Islamic Stable Return Fund Plan XII",
-      "returns": {
-        "1d": 9.78,
-        "15d": 9.79,
-        "30d": 9.83,
-        "90d": 9.99,
         "180d": null,
         "270d": null,
         "365d": null,

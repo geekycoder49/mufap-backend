@@ -1,5 +1,5 @@
 {
-  "count": 540,
+  "count": 539,
   "data": [
     {
       "fund": "786 Islamic Money Market Fund",
@@ -870,11 +870,6 @@
       "fund": "Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan III)",
       "nav": 105.7451,
       "date": "2026-05-05"
-    },
-    {
-      "fund": "Alfalah Islamic Stable Return Fund Plan XII",
-      "nav": 102.4922,
-      "date": "2026-05-04"
     },
     {
       "fund": "Alfalah Islamic Stable Return Fund Plan XIII",
