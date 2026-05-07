@@ -1,5 +1,5 @@
 {
-  "count": 539,
+  "count": 537,
   "data": [
     {
       "fund": "786 Islamic Money Market Fund",
@@ -798,13 +798,13 @@
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Moderate Allocation Plan)",
-      "nav": 115.1172,
-      "date": "2026-05-05"
+      "nav": 117.8459,
+      "date": "2026-05-06"
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Capital Preservation Plan IV)",
-      "nav": 114.566,
-      "date": "2026-05-05"
+      "nav": 119.9063,
+      "date": "2026-05-06"
     },
     {
       "fund": "Alfalah GHP Sovereign Fund",
@@ -1753,8 +1753,8 @@
     },
     {
       "fund": "Lakson Tactical Fund",
-      "nav": 110.405,
-      "date": "2026-05-05"
+      "nav": 113.8079,
+      "date": "2026-05-06"
     },
     {
       "fund": "Lucky Islamic Pension Fund",
@@ -2197,11 +2197,6 @@
       "date": "2026-05-06"
     },
     {
-      "fund": "NBP Fixed Term Munafa Plan XIB (NBP Mustahkam Fund II)",
-      "nav": 10.1717,
-      "date": "2026-05-06"
-    },
-    {
       "fund": "NBP Fixed Term Munafa Plan XIII (NBP Mustahkam Fund II)",
       "nav": 10.5573,
       "date": "2026-05-06"
@@ -2209,11 +2204,6 @@
     {
       "fund": "NBP Fixed Term Munafa Plan XIX",
       "nav": 10.8923,
-      "date": "2026-05-06"
-    },
-    {
-      "fund": "NBP Fixed Term Munafa Plan XIXA (NBP Mustahkam Fund II)",
-      "nav": 10.2342,
       "date": "2026-05-06"
     },
     {
@@ -2283,8 +2273,8 @@
     },
     {
       "fund": "NBP Islamic Gold Fund",
-      "nav": 10.0,
-      "date": "2026-05-04"
+      "nav": 10.023,
+      "date": "2026-05-05"
     },
     {
       "fund": "NBP Islamic Government Securities Plan III",
@@ -2678,8 +2668,8 @@
     },
     {
       "fund": "UBL Retirement Saving Fund",
-      "nav": 438.03,
-      "date": "2026-05-05"
+      "nav": 448.94,
+      "date": "2026-05-06"
     },
     {
       "fund": "UBL Special Savings Plan V",

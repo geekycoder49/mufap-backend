@@ -1,5 +1,5 @@
 {
-  "count": 539,
+  "count": 537,
   "data": [
     {
       "fund": "ABL Cash Fund",
@@ -2214,20 +2214,6 @@
       }
     },
     {
-      "fund": "NBP Fixed Term Munafa Plan XIB (NBP Mustahkam Fund II)",
-      "returns": {
-        "1d": 668.32,
-        "15d": 66.75,
-        "30d": 33.37,
-        "90d": null,
-        "180d": null,
-        "270d": null,
-        "365d": null,
-        "2y": null,
-        "3y": null
-      }
-    },
-    {
       "fund": "NBP Fixed Term Munafa Plan XIII (NBP Mustahkam Fund II)",
       "returns": {
         "1d": null,
@@ -2251,20 +2237,6 @@
         "180d": 10.49,
         "270d": 10.43,
         "365d": 11.73,
-        "2y": null,
-        "3y": null
-      }
-    },
-    {
-      "fund": "NBP Fixed Term Munafa Plan XIXA (NBP Mustahkam Fund II)",
-      "returns": {
-        "1d": null,
-        "15d": 21.69,
-        "30d": 10.84,
-        "90d": 9.5,
-        "180d": null,
-        "270d": null,
-        "365d": null,
         "2y": null,
         "3y": null
       }
@@ -2664,15 +2636,15 @@
     {
       "fund": "Lakson Tactical Fund",
       "returns": {
-        "1d": 0.31,
-        "15d": -3.99,
-        "30d": 3.46,
-        "90d": -6.18,
-        "180d": 6.49,
-        "270d": 16.86,
-        "365d": 23.58,
-        "2y": 73.49,
-        "3y": 128.77
+        "1d": 3.08,
+        "15d": -1.03,
+        "30d": 6.2,
+        "90d": -2.53,
+        "180d": 9.53,
+        "270d": 20.44,
+        "365d": 27.33,
+        "2y": 78.18,
+        "3y": 135.76
       }
     },
     {
@@ -2818,27 +2790,27 @@
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Moderate Allocation Plan)",
       "returns": {
-        "1d": 0.15,
-        "15d": -1.62,
-        "30d": 1.66,
-        "90d": -1.77,
-        "180d": 4.76,
-        "270d": 9.15,
-        "365d": 20.87,
-        "2y": 65.59,
-        "3y": 125.74
+        "1d": 2.37,
+        "15d": 0.62,
+        "30d": 3.99,
+        "90d": 0.54,
+        "180d": 7.06,
+        "270d": 11.73,
+        "365d": 23.63,
+        "2y": 68.9,
+        "3y": 131.09
       }
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Capital Preservation Plan IV)",
       "returns": {
-        "1d": 0.23,
-        "15d": -2.79,
-        "30d": 4.62,
-        "90d": -4.28,
-        "180d": 3.71,
-        "270d": 7.33,
-        "365d": 19.82,
+        "1d": 4.66,
+        "15d": 1.55,
+        "30d": 9.38,
+        "90d": 0.17,
+        "180d": 8.39,
+        "270d": 12.32,
+        "365d": 25.35,
         "2y": null,
         "3y": null
       }
@@ -5520,7 +5492,7 @@
     {
       "fund": "NBP Islamic Gold Fund",
       "returns": {
-        "1d": null,
+        "1d": 0.23,
         "15d": null,
         "30d": null,
         "90d": null,
@@ -5940,15 +5912,15 @@
     {
       "fund": "UBL Retirement Saving Fund",
       "returns": {
-        "1d": 0.63,
-        "15d": -4.59,
-        "30d": -2.05,
-        "90d": -9.59,
-        "180d": 9.98,
-        "270d": 25.99,
-        "365d": 29.7,
-        "2y": 102.35,
-        "3y": 133.98
+        "1d": 2.49,
+        "15d": -0.42,
+        "30d": 0.81,
+        "90d": -4.74,
+        "180d": 12.15,
+        "270d": 29.1,
+        "365d": 29.79,
+        "2y": 105.65,
+        "3y": 139.74
       }
     },
     {
