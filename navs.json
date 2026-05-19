@@ -1,5 +1,5 @@
 {
-  "count": 542,
+  "count": 543,
   "data": [
     {
       "fund": "786 Islamic Money Market Fund",
@@ -783,18 +783,18 @@
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Active Allocation Plan)",
-      "nav": 119.4421,
-      "date": "2026-05-17"
+      "nav": 116.2287,
+      "date": "2026-05-18"
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Conservative Allocation Plan)",
-      "nav": 122.7035,
-      "date": "2026-05-16"
+      "nav": 122.2355,
+      "date": "2026-05-18"
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Moderate Allocation Plan)",
-      "nav": 115.9948,
-      "date": "2026-05-16"
+      "nav": 114.8095,
+      "date": "2026-05-18"
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Capital Preservation Plan IV)",
@@ -953,8 +953,8 @@
     },
     {
       "fund": "Alfalah Strategic Allocation Fund Plan - I",
-      "nav": 123.0455,
-      "date": "2026-05-16"
+      "nav": 123.0601,
+      "date": "2026-05-18"
     },
     {
       "fund": "Atlas Pension Islamic Fund",
@@ -1128,8 +1128,8 @@
     },
     {
       "fund": "BMA Money Market Fund",
-      "nav": 100.2642,
-      "date": "2026-05-17"
+      "nav": 100.2918,
+      "date": "2026-05-18"
     },
     {
       "fund": "BMA Stock Fund",
@@ -1258,18 +1258,18 @@
     },
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan I)",
-      "nav": 116.0969,
-      "date": "2026-05-17"
+      "nav": 115.4853,
+      "date": "2026-05-18"
     },
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan II)",
-      "nav": 107.3323,
-      "date": "2026-05-17"
+      "nav": 107.2675,
+      "date": "2026-05-18"
     },
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan III)",
-      "nav": 108.8466,
-      "date": "2026-05-17"
+      "nav": 108.8608,
+      "date": "2026-05-18"
     },
     {
       "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan VI)",
@@ -1318,13 +1318,13 @@
     },
     {
       "fund": "Faysal Khushal Mustaqbil Fund (Faysal Barak\u2019ah Women Savers Plan)",
-      "nav": 107.697,
-      "date": "2026-05-17"
+      "nav": 107.7221,
+      "date": "2026-05-18"
     },
     {
       "fund": "Faysal Khushal Mustaqbil Fund (Faysal Nu\u2019umah Women Savers Plan)",
-      "nav": 107.7763,
-      "date": "2026-05-17"
+      "nav": 107.8033,
+      "date": "2026-05-18"
     },
     {
       "fund": "First Capital Mutual Fund",
@@ -1812,6 +1812,11 @@
       "date": "2026-05-18"
     },
     {
+      "fund": "Lucky Islamic Fixed Term Fund Plan XVIII",
+      "nav": 100.0,
+      "date": "2026-05-14"
+    },
+    {
       "fund": "Lucky Islamic Income Fund",
       "nav": 109.1478,
       "date": "2026-05-18"
@@ -2108,8 +2113,8 @@
     },
     {
       "fund": "NIT Pension Fund",
-      "nav": 52.0019,
-      "date": "2026-05-17"
+      "nav": 52.2468,
+      "date": "2026-05-18"
     },
     {
       "fund": "NIT Social Impact Fund",
