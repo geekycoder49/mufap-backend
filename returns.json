@@ -1,5 +1,5 @@
 {
-  "count": 545,
+  "count": 548,
   "data": [
     {
       "fund": "ABL Cash Fund",
@@ -1855,6 +1855,20 @@
         "1d": -2.34,
         "15d": 3.99,
         "30d": 4.28,
+        "90d": null,
+        "180d": null,
+        "270d": null,
+        "365d": null,
+        "2y": null,
+        "3y": null
+      }
+    },
+    {
+      "fund": "Alfalah Stable Return Fund Plan XXVIII",
+      "returns": {
+        "1d": null,
+        "15d": null,
+        "30d": null,
         "90d": null,
         "180d": null,
         "270d": null,
@@ -4468,6 +4482,20 @@
       }
     },
     {
+      "fund": "Alfalah Islamic Stable Return Fund Plan XVII",
+      "returns": {
+        "1d": null,
+        "15d": null,
+        "30d": null,
+        "90d": null,
+        "180d": null,
+        "270d": null,
+        "365d": null,
+        "2y": null,
+        "3y": null
+      }
+    },
+    {
       "fund": "Alhamra Wada Fund (Alhamra Wada Plan XXI)",
       "returns": {
         "1d": 10.99,
@@ -4500,6 +4528,20 @@
       "returns": {
         "1d": 10.18,
         "15d": 9.8,
+        "30d": null,
+        "90d": null,
+        "180d": null,
+        "270d": null,
+        "365d": null,
+        "2y": null,
+        "3y": null
+      }
+    },
+    {
+      "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXI)",
+      "returns": {
+        "1d": null,
+        "15d": null,
         "30d": null,
         "90d": null,
         "180d": null,
