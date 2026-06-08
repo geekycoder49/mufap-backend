@@ -1,5 +1,5 @@
 {
-  "count": 547,
+  "count": 548,
   "data": [
     {
       "fund": "786 Islamic Money Market Fund",
@@ -68,8 +68,8 @@
     },
     {
       "fund": "ABL Financial Sector Fund Plan I",
-      "nav": 10.9731,
-      "date": "2026-06-05"
+      "nav": 10.9796,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Fixed Rate Plan XXII",
@@ -98,8 +98,8 @@
     },
     {
       "fund": "ABL Government Securities Fund",
-      "nav": 11.0576,
-      "date": "2026-06-05"
+      "nav": 11.0636,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Income Fund",
@@ -108,33 +108,33 @@
     },
     {
       "fund": "ABL Islamic Asset Allocation Fund",
-      "nav": 10.1832,
-      "date": "2026-06-05"
+      "nav": 10.1838,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Islamic Cash Fund",
-      "nav": 10.0925,
-      "date": "2026-06-05"
+      "nav": 10.0234,
+      "date": "2026-06-08"
     },
     {
       "fund": "ABL Islamic Dedicated Stock Fund",
-      "nav": 17.9219,
-      "date": "2026-06-05"
+      "nav": 17.9159,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Islamic Financial Planning Fund (Active Allocation Plan)",
-      "nav": 102.2045,
-      "date": "2026-06-04"
+      "nav": 101.6811,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Islamic Financial Planning Fund (Capital Preservation Plan I)",
-      "nav": 114.1068,
-      "date": "2026-06-04"
+      "nav": 113.9324,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Islamic Financial Planning Fund (Conservative Allocation Plan)",
-      "nav": 125.9423,
-      "date": "2026-06-04"
+      "nav": 125.9348,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Islamic Fixed Term Plan V",
@@ -158,8 +158,8 @@
     },
     {
       "fund": "ABL Islamic Stock Fund",
-      "nav": 32.622,
-      "date": "2026-06-05"
+      "nav": 32.6153,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Money Market Plan I",
@@ -168,33 +168,33 @@
     },
     {
       "fund": "ABL Optimal Asset Allocation Fund",
-      "nav": 10.8267,
-      "date": "2026-06-05"
+      "nav": 10.8291,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan I)",
-      "nav": 11.0983,
-      "date": "2026-06-05"
+      "nav": 11.1053,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan II)",
-      "nav": 11.5822,
-      "date": "2026-06-05"
+      "nav": 11.5892,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan III)",
-      "nav": 11.1111,
-      "date": "2026-06-05"
+      "nav": 11.1175,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan IV)",
-      "nav": 10.4023,
-      "date": "2026-06-05"
+      "nav": 10.4095,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan V)",
-      "nav": 11.025,
-      "date": "2026-06-05"
+      "nav": 11.0289,
+      "date": "2026-06-07"
     },
     {
       "fund": "ABL Special Saving Fund (ABL Special Saving Plan VI)",
@@ -203,33 +203,33 @@
     },
     {
       "fund": "ABL Stock Fund",
-      "nav": 37.5495,
-      "date": "2026-06-05"
+      "nav": 37.5428,
+      "date": "2026-06-07"
     },
     {
       "fund": "Allied Finergy Fund",
-      "nav": 16.665,
-      "date": "2026-06-05"
+      "nav": 16.663,
+      "date": "2026-06-07"
     },
     {
       "fund": "AKD Aggressive Income Fund",
-      "nav": 61.1258,
-      "date": "2026-06-05"
+      "nav": 61.1427,
+      "date": "2026-06-06"
     },
     {
       "fund": "AKD Alpha Income Fund",
-      "nav": 50.932,
-      "date": "2026-06-05"
+      "nav": 50.9445,
+      "date": "2026-06-06"
     },
     {
       "fund": "AKD Cash Fund",
-      "nav": 56.9817,
-      "date": "2026-06-05"
+      "nav": 56.9991,
+      "date": "2026-06-06"
     },
     {
       "fund": "AKD Index Tracker Fund",
-      "nav": 41.2351,
-      "date": "2026-06-05"
+      "nav": 41.2338,
+      "date": "2026-06-06"
     },
     {
       "fund": "AKD Islamic Cash Fund",
@@ -238,23 +238,23 @@
     },
     {
       "fund": "AKD Islamic Income Fund",
-      "nav": 55.7722,
-      "date": "2026-06-05"
+      "nav": 55.7875,
+      "date": "2026-06-06"
     },
     {
       "fund": "AKD Islamic Stock Fund",
-      "nav": 105.8159,
-      "date": "2026-06-05"
+      "nav": 105.7806,
+      "date": "2026-06-06"
     },
     {
       "fund": "AKD Opportunity Fund",
-      "nav": 210.1254,
-      "date": "2026-06-05"
+      "nav": 210.1032,
+      "date": "2026-06-06"
     },
     {
       "fund": "Golden Arrow Stock Fund",
-      "nav": 35.0593,
-      "date": "2026-06-05"
+      "nav": 35.056,
+      "date": "2026-06-06"
     },
     {
       "fund": "AL Habib Islamic Pension Fund",
@@ -303,8 +303,8 @@
     },
     {
       "fund": "AL Habib Cash Fund",
-      "nav": 111.3494,
-      "date": "2026-06-06"
+      "nav": 111.4136,
+      "date": "2026-06-08"
     },
     {
       "fund": "AL Habib Fixed Return Fund Plan 19",
@@ -343,8 +343,8 @@
     },
     {
       "fund": "AL Habib Islamic Cash Fund",
-      "nav": 109.558,
-      "date": "2026-06-06"
+      "nav": 109.618,
+      "date": "2026-06-08"
     },
     {
       "fund": "AL Habib Islamic Income Fund",
@@ -353,13 +353,13 @@
     },
     {
       "fund": "AL Habib Islamic Money Market Fund",
-      "nav": 102.4107,
-      "date": "2026-06-06"
+      "nav": 102.4742,
+      "date": "2026-06-08"
     },
     {
       "fund": "AL Habib Islamic Savings Fund",
-      "nav": 108.9591,
-      "date": "2026-06-06"
+      "nav": 109.0136,
+      "date": "2026-06-08"
     },
     {
       "fund": "AL Habib Islamic Stock Fund",
@@ -368,8 +368,8 @@
     },
     {
       "fund": "AL Habib Money Market Fund",
-      "nav": 110.0814,
-      "date": "2026-06-06"
+      "nav": 110.1444,
+      "date": "2026-06-08"
     },
     {
       "fund": "AL Habib Sovereign Income Fund Plan 1",
@@ -463,8 +463,8 @@
     },
     {
       "fund": "Meezan Daily Income Fund (Meezan Sehl Account Plan) (MSHP)",
-      "nav": 54.6205,
-      "date": "2026-06-05"
+      "nav": 54.6335,
+      "date": "2026-06-06"
     },
     {
       "fund": "Meezan Daily Income Fund (Meezan Super Saver Plan) (MSSP)",
@@ -488,33 +488,33 @@
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (Aggressive)",
-      "nav": 179.7083,
-      "date": "2026-06-04"
+      "nav": 178.9201,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (Conservative)",
-      "nav": 124.0692,
-      "date": "2026-06-04"
+      "nav": 123.8908,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (MAAP I)",
-      "nav": 139.0887,
-      "date": "2026-06-04"
+      "nav": 138.3582,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (Moderate)",
-      "nav": 145.1047,
-      "date": "2026-06-04"
+      "nav": 144.6489,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Financial Planning Fund of Funds (Very Conservative Allocation Plan)",
-      "nav": 55.1298,
-      "date": "2026-06-04"
+      "nav": 55.1439,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Gold Fund",
-      "nav": 296.899,
-      "date": "2026-06-04"
+      "nav": 290.0253,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Islamic Asaan Cash Fund",
@@ -533,43 +533,43 @@
     },
     {
       "fund": "Meezan Paidaar Munafa Plan 34",
-      "nav": 50.9346,
-      "date": "2026-06-04"
+      "nav": 50.9311,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Paidaar Munafa Plan 39",
-      "nav": 51.3817,
-      "date": "2026-06-04"
+      "nav": 51.3971,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Paidaar Munafa Plan 40",
-      "nav": 50.9191,
-      "date": "2026-06-04"
+      "nav": 50.9331,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Paidaar Munafa Plan 42",
-      "nav": 51.007,
-      "date": "2026-06-04"
+      "nav": 51.0229,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Paidaar Munafa Plan 43",
-      "nav": 50.8059,
-      "date": "2026-06-04"
+      "nav": 50.8207,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Paidaar Munafa Plan 44",
-      "nav": 50.4677,
+      "nav": 50.0,
       "date": "2026-05-19"
     },
     {
       "fund": "Meezan Paidaar Munafa Plan 46",
-      "nav": 50.38,
-      "date": "2026-06-04"
+      "nav": 50.3952,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Paidaar Munafa Plan 47",
-      "nav": 50.2215,
-      "date": "2026-06-04"
+      "nav": 50.2318,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Pakistan ETF",
@@ -588,33 +588,33 @@
     },
     {
       "fund": "Meezan Strategic Allocation Fund (MSAP I)",
-      "nav": 92.3277,
-      "date": "2026-06-04"
+      "nav": 91.8644,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Strategic Allocation Fund (MSAP II)",
-      "nav": 78.7142,
-      "date": "2026-06-04"
+      "nav": 78.294,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Strategic Allocation Fund (MSAP III)",
-      "nav": 87.4614,
-      "date": "2026-06-04"
+      "nav": 87.018,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Strategic Allocation Fund (MSAP IV)",
-      "nav": 92.2342,
-      "date": "2026-06-04"
+      "nav": 91.7379,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Strategic Allocation Fund (MSAP V)",
-      "nav": 101.9866,
-      "date": "2026-06-04"
+      "nav": 101.4689,
+      "date": "2026-06-05"
     },
     {
       "fund": "Meezan Tahaffuz Pension Fund",
-      "nav": 551.4978,
-      "date": "2026-06-04"
+      "nav": 538.9995,
+      "date": "2026-06-05"
     },
     {
       "fund": "Alfalah GHP Islamic Pension Fund",
@@ -753,18 +753,18 @@
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II)",
-      "nav": 103.0839,
-      "date": "2026-06-04"
+      "nav": 102.3152,
+      "date": "2026-06-05"
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan)",
-      "nav": 115.7351,
-      "date": "2026-06-04"
+      "nav": 115.5838,
+      "date": "2026-06-05"
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan)",
-      "nav": 121.311,
-      "date": "2026-06-04"
+      "nav": 120.9456,
+      "date": "2026-06-05"
     },
     {
       "fund": "Alfalah GHP Islamic Stock Fund",
@@ -783,18 +783,18 @@
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Active Allocation Plan)",
-      "nav": 122.1781,
-      "date": "2026-06-04"
+      "nav": 121.7196,
+      "date": "2026-06-05"
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Conservative Allocation Plan)",
-      "nav": 123.8088,
-      "date": "2026-06-04"
+      "nav": 123.752,
+      "date": "2026-06-05"
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Moderate Allocation Plan)",
-      "nav": 117.6045,
-      "date": "2026-06-04"
+      "nav": 117.4261,
+      "date": "2026-06-05"
     },
     {
       "fund": "Alfalah GHP Prosperity Planning Fund (Capital Preservation Plan IV)",
@@ -883,8 +883,8 @@
     },
     {
       "fund": "Alfalah KTrade Islamic Plan VII",
-      "nav": 135.0252,
-      "date": "2026-06-04"
+      "nav": 135.0522,
+      "date": "2026-06-05"
     },
     {
       "fund": "Alfalah Money Market Fund - II",
@@ -953,143 +953,143 @@
     },
     {
       "fund": "Alfalah Strategic Allocation Capital Preservation Plan II",
-      "nav": 100.9956,
-      "date": "2026-06-04"
+      "nav": 100.9446,
+      "date": "2026-06-05"
     },
     {
       "fund": "Alfalah Strategic Allocation Fund Plan - I",
-      "nav": 123.713,
-      "date": "2026-06-04"
-    },
-    {
-      "fund": "Atlas Pension Islamic Fund",
-      "nav": 482.1,
+      "nav": 123.7543,
       "date": "2026-06-05"
     },
     {
       "fund": "Atlas Pension Islamic Fund",
-      "nav": 2645.35,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas KPK Islamic Pension Fund",
-      "nav": 138.68,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Pension Islamic Fund",
-      "nav": 510.1,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Punjab Islamic Pension Fund",
-      "nav": 106.1341,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Pension Fund",
-      "nav": 657.08,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Pension Fund",
-      "nav": 2410.17,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Pension Fund",
-      "nav": 612.47,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Punjab Pension Fund",
-      "nav": 105.751,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Dividend Yield Fund",
-      "nav": 95.1168,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Financial Sector Fund",
-      "nav": 95.2601,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Income Fund",
-      "nav": 578.1848,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Building Materials Fund",
-      "nav": 112.5885,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Cash Fund",
-      "nav": 548.7819,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Dedicated Stock Fund",
-      "nav": 1608.6742,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Energy Fund",
-      "nav": 107.4224,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Fund of Funds (Atlas Aggressive Allocation Islamic Plan)",
-      "nav": 1430.3806,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Fund of Funds (Atlas Conservative Allocation Islamic Plan)",
-      "nav": 941.471,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Fund of Funds (Atlas Moderate Allocation Islamic Plan)",
-      "nav": 1220.4822,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Income Fund",
-      "nav": 561.0173,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Money Market Fund",
-      "nav": 554.6372,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Islamic Stock Fund",
-      "nav": 1568.5557,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Atlas Liquid Fund",
-      "nav": 550.4818,
+      "nav": 482.21,
       "date": "2026-06-06"
     },
     {
+      "fund": "Atlas Pension Islamic Fund",
+      "nav": 2645.23,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas KPK Islamic Pension Fund",
+      "nav": 138.76,
+      "date": "2026-06-07"
+    },
+    {
+      "fund": "Atlas Pension Islamic Fund",
+      "nav": 510.23,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Punjab Islamic Pension Fund",
+      "nav": 106.16,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Pension Fund",
+      "nav": 657.29,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Pension Fund",
+      "nav": 2410.07,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Pension Fund",
+      "nav": 612.65,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Punjab Pension Fund",
+      "nav": 105.79,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Dividend Yield Fund",
+      "nav": 95.0971,
+      "date": "2026-06-07"
+    },
+    {
+      "fund": "Atlas Financial Sector Fund",
+      "nav": 95.2402,
+      "date": "2026-06-07"
+    },
+    {
+      "fund": "Atlas Income Fund",
+      "nav": 578.4143,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Islamic Building Materials Fund",
+      "nav": 112.5649,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Islamic Cash Fund",
+      "nav": 548.9048,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Islamic Dedicated Stock Fund",
+      "nav": 1608.5047,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Islamic Energy Fund",
+      "nav": 107.397,
+      "date": "2026-06-07"
+    },
+    {
+      "fund": "Atlas Islamic Fund of Funds (Atlas Aggressive Allocation Islamic Plan)",
+      "nav": 1430.387,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Islamic Fund of Funds (Atlas Conservative Allocation Islamic Plan)",
+      "nav": 941.4786,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Islamic Fund of Funds (Atlas Moderate Allocation Islamic Plan)",
+      "nav": 1220.4934,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Islamic Income Fund",
+      "nav": 561.2781,
+      "date": "2026-06-07"
+    },
+    {
+      "fund": "Atlas Islamic Money Market Fund",
+      "nav": 554.7859,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Atlas Islamic Stock Fund",
+      "nav": 1568.2454,
+      "date": "2026-06-07"
+    },
+    {
+      "fund": "Atlas Liquid Fund",
+      "nav": 550.644,
+      "date": "2026-06-07"
+    },
+    {
       "fund": "Atlas Money Market Fund",
-      "nav": 563.069,
-      "date": "2026-06-05"
+      "nav": 563.2377,
+      "date": "2026-06-06"
     },
     {
       "fund": "Atlas Sovereign Fund",
-      "nav": 111.5328,
-      "date": "2026-06-05"
+      "nav": 111.5991,
+      "date": "2026-06-07"
     },
     {
       "fund": "Atlas Stock Market Fund",
-      "nav": 2111.4142,
-      "date": "2026-06-05"
+      "nav": 2110.9921,
+      "date": "2026-06-07"
     },
     {
       "fund": "AWT Islamic Pension Fund",
@@ -1128,63 +1128,63 @@
     },
     {
       "fund": "BMA Islamic Noor Cash Fund",
-      "nav": 100.8034,
-      "date": "2026-06-05"
+      "nav": 100.8223,
+      "date": "2026-06-06"
     },
     {
       "fund": "BMA Money Market Fund",
-      "nav": 100.8074,
-      "date": "2026-06-05"
+      "nav": 100.8359,
+      "date": "2026-06-06"
     },
     {
       "fund": "BMA Stock Fund",
-      "nav": 100.3789,
-      "date": "2026-06-05"
+      "nav": 100.3734,
+      "date": "2026-06-06"
     },
     {
       "fund": "EFU Hemayah Pension Fund",
-      "nav": 100.688,
-      "date": "2026-06-05"
+      "nav": 100.6956,
+      "date": "2026-06-06"
     },
     {
       "fund": "EFU Hemayah Pension Fund",
-      "nav": 90.8722,
-      "date": "2026-06-05"
+      "nav": 90.8686,
+      "date": "2026-06-06"
     },
     {
       "fund": "EFU Hemayah Pension Fund",
-      "nav": 103.3531,
-      "date": "2026-06-05"
+      "nav": 103.3511,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Pension Fund",
-      "nav": 181.6575,
-      "date": "2026-06-05"
+      "nav": 181.6934,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Pension Fund",
-      "nav": 349.5523,
-      "date": "2026-06-05"
+      "nav": 349.5306,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic KPK Government Pension Fund",
-      "nav": 134.2711,
-      "date": "2026-06-05"
+      "nav": 134.3089,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Pension Fund",
-      "nav": 186.8279,
-      "date": "2026-06-05"
+      "nav": 186.8749,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Punjab Pension Fund",
-      "nav": 103.8915,
-      "date": "2026-06-05"
+      "nav": 103.9251,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Halal Amdani Fund",
-      "nav": 110.7149,
-      "date": "2026-06-06"
+      "nav": 110.7598,
+      "date": "2026-06-08"
     },
     {
       "fund": "Faysal Halal Amdani Fund II",
@@ -1193,33 +1193,33 @@
     },
     {
       "fund": "Faysal Halal Amdani Fund III",
-      "nav": 104.3561,
-      "date": "2026-06-05"
+      "nav": 104.386,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Asset Allocation Fund",
-      "nav": 98.6257,
-      "date": "2026-06-05"
+      "nav": 98.656,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Asset Allocation Fund II",
-      "nav": 119.8547,
-      "date": "2026-06-05"
+      "nav": 119.8657,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan I)",
-      "nav": 105.9042,
-      "date": "2026-06-05"
+      "nav": 105.9303,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan II)",
-      "nav": 105.1956,
-      "date": "2026-06-05"
+      "nav": 105.2214,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan III)",
-      "nav": 104.147,
-      "date": "2026-06-05"
+      "nav": 104.1817,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Asset Allocation Fund IV (Faysal Shariah Flex Plan IV)",
@@ -1228,23 +1228,23 @@
     },
     {
       "fund": "Faysal Islamic Asset Allocation Fund IV (Faysal Shariah Flex Plan V)",
-      "nav": 100.4505,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Faysal Islamic Asset Allocation Fund IV (Faysal Shariah Flex Plan VI)",
-      "nav": 100.6751,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Faysal Islamic Cash Fund",
-      "nav": 108.8318,
+      "nav": 100.4656,
       "date": "2026-06-06"
     },
     {
+      "fund": "Faysal Islamic Asset Allocation Fund IV (Faysal Shariah Flex Plan VI)",
+      "nav": 100.69,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Faysal Islamic Cash Fund",
+      "nav": 108.8678,
+      "date": "2026-06-08"
+    },
+    {
       "fund": "Faysal Islamic Dedicated Equity Fund",
-      "nav": 116.7518,
-      "date": "2026-06-05"
+      "nav": 116.7326,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Financial Growth Fund (Faysal Islamic Financial Growth Plan I)",
@@ -1263,23 +1263,23 @@
     },
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan I)",
-      "nav": 117.0727,
-      "date": "2026-06-04"
+      "nav": 116.9507,
+      "date": "2026-06-05"
     },
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan II)",
-      "nav": 107.843,
-      "date": "2026-06-04"
+      "nav": 107.8587,
+      "date": "2026-06-05"
     },
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan III)",
-      "nav": 109.327,
-      "date": "2026-06-04"
+      "nav": 109.3609,
+      "date": "2026-06-05"
     },
     {
       "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XIX)",
-      "nav": 101.5203,
-      "date": "2026-06-05"
+      "nav": 101.5475,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XX)",
@@ -1288,58 +1288,58 @@
     },
     {
       "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXI)",
-      "nav": 100.4949,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXII)",
-      "nav": 100.0,
-      "date": "2026-06-04"
-    },
-    {
-      "fund": "Faysal Islamic Savings Growth Fund",
-      "nav": 113.4569,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan I)",
-      "nav": 107.5558,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan II)",
-      "nav": 106.8474,
-      "date": "2026-06-05"
-    },
-    {
-      "fund": "Faysal Islamic Special Income Plan I",
-      "nav": 10.8959,
+      "nav": 100.5042,
       "date": "2026-06-06"
     },
     {
-      "fund": "Faysal Islamic Stock Fund",
-      "nav": 118.3062,
+      "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXII)",
+      "nav": 100.065,
       "date": "2026-06-05"
+    },
+    {
+      "fund": "Faysal Islamic Savings Growth Fund",
+      "nav": 113.4843,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan I)",
+      "nav": 107.5818,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan II)",
+      "nav": 106.8713,
+      "date": "2026-06-06"
+    },
+    {
+      "fund": "Faysal Islamic Special Income Plan I",
+      "nav": 10.9006,
+      "date": "2026-06-08"
+    },
+    {
+      "fund": "Faysal Islamic Stock Fund",
+      "nav": 118.2941,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Islamic Stock Fund II",
-      "nav": 132.2136,
-      "date": "2026-06-05"
+      "nav": 132.2003,
+      "date": "2026-06-06"
     },
     {
       "fund": "Faysal Khushal Mustaqbil Fund (Faysal Barak\u2019ah Women Savers Plan)",
-      "nav": 108.1474,
-      "date": "2026-06-04"
+      "nav": 108.1755,
+      "date": "2026-06-05"
     },
     {
       "fund": "Faysal Khushal Mustaqbil Fund (Faysal Nu\u2019umah Women Savers Plan)",
-      "nav": 108.2611,
-      "date": "2026-06-04"
+      "nav": 108.2911,
+      "date": "2026-06-05"
     },
     {
       "fund": "First Capital Mutual Fund",
-      "nav": 17.1684,
-      "date": "2026-06-05"
+      "nav": 17.1647,
+      "date": "2026-06-07"
     },
     {
       "fund": "HBL Islamic Pension Fund",
@@ -1393,8 +1393,8 @@
     },
     {
       "fund": "HBL Cash Fund",
-      "nav": 112.8814,
-      "date": "2026-06-05"
+      "nav": 112.9788,
+      "date": "2026-06-08"
     },
     {
       "fund": "HBL Energy Fund",
@@ -1438,18 +1438,18 @@
     },
     {
       "fund": "HBL Investment Fund-Class A",
-      "nav": 14.3457,
-      "date": "2026-06-04"
+      "nav": 14.3494,
+      "date": "2026-06-05"
     },
     {
       "fund": "HBL Investment Fund-Class B",
-      "nav": 19.5281,
-      "date": "2026-06-04"
+      "nav": 19.6542,
+      "date": "2026-06-05"
     },
     {
       "fund": "HBL Islamic Asset Allocation Fund",
-      "nav": 308.2292,
-      "date": "2026-06-03"
+      "nav": 309.3402,
+      "date": "2026-06-05"
     },
     {
       "fund": "HBL Islamic Equity Fund",
@@ -1478,8 +1478,8 @@
     },
     {
       "fund": "HBL Islamic Money Market Fund",
-      "nav": 111.1507,
-      "date": "2026-06-05"
+      "nav": 111.2408,
+      "date": "2026-06-08"
     },
     {
       "fund": "HBL Islamic Regualar Income Fund",
@@ -1493,7 +1493,7 @@
     },
     {
       "fund": "HBL Islamic Stock Fund",
-      "nav": 254.1614,
+      "nav": 248.4471,
       "date": "2026-06-05"
     },
     {
@@ -1518,13 +1518,13 @@
     },
     {
       "fund": "HBL Money Market Fund",
-      "nav": 112.687,
-      "date": "2026-06-05"
+      "nav": 112.7816,
+      "date": "2026-06-08"
     },
     {
       "fund": "HBL Multi Asset Fund",
-      "nav": 216.3189,
-      "date": "2026-06-03"
+      "nav": 216.5816,
+      "date": "2026-06-05"
     },
     {
       "fund": "HBL Regular Income Fund",
@@ -1538,23 +1538,23 @@
     },
     {
       "fund": "HBL Total Treasury Exchange Traded Fund",
-      "nav": 112.2788,
-      "date": "2026-06-04"
+      "nav": 112.4099,
+      "date": "2026-06-08"
     },
     {
       "fund": "Mahaana IGI Islamic Retirement Fund",
-      "nav": 11.0997,
-      "date": "2026-06-05"
+      "nav": 11.1008,
+      "date": "2026-06-06"
     },
     {
       "fund": "Mahaana IGI Islamic Retirement Fund",
-      "nav": 12.4432,
-      "date": "2026-06-05"
+      "nav": 12.4426,
+      "date": "2026-06-06"
     },
     {
       "fund": "Mahaana IGI Islamic Retirement Fund",
-      "nav": 10.9796,
-      "date": "2026-06-05"
+      "nav": 10.9807,
+      "date": "2026-06-06"
     },
     {
       "fund": "JS Islamic Pension Savings Fund",
@@ -1748,13 +1748,13 @@
     },
     {
       "fund": "Lakson Asset Allocation Developed Markets Fund",
-      "nav": 201.732,
-      "date": "2026-06-04"
+      "nav": 200.2425,
+      "date": "2026-06-07"
     },
     {
       "fund": "Lakson Equity Fund",
-      "nav": 318.7308,
-      "date": "2026-06-05"
+      "nav": 318.6791,
+      "date": "2026-06-07"
     },
     {
       "fund": "Lakson Fixed Return Fund Plan I",
@@ -1763,18 +1763,18 @@
     },
     {
       "fund": "Lakson Fixed Return Fund Plan II",
-      "nav": 101.1811,
-      "date": "2026-06-05"
+      "nav": 101.2404,
+      "date": "2026-06-07"
     },
     {
       "fund": "Lakson Income Fund",
-      "nav": 111.5315,
-      "date": "2026-06-05"
+      "nav": 111.5938,
+      "date": "2026-06-07"
     },
     {
       "fund": "Lakson Islamic Fixed Term Fund Plan I",
-      "nav": 100.42,
-      "date": "2026-06-05"
+      "nav": 100.4509,
+      "date": "2026-06-06"
     },
     {
       "fund": "Lakson Islamic Money Market Fund",
@@ -1783,8 +1783,8 @@
     },
     {
       "fund": "Lakson Islamic Tactical Fund",
-      "nav": 91.0798,
-      "date": "2026-06-05"
+      "nav": 91.0903,
+      "date": "2026-06-07"
     },
     {
       "fund": "Lakson Money Market Fund",
@@ -1793,8 +1793,8 @@
     },
     {
       "fund": "Lakson Tactical Fund",
-      "nav": 113.65,
-      "date": "2026-06-04"
+      "nav": 112.9102,
+      "date": "2026-06-07"
     },
     {
       "fund": "Lucky Islamic Pension Fund",
@@ -1853,8 +1853,8 @@
     },
     {
       "fund": "Lucky Islamic Pension Fund",
-      "nav": 105.5464,
-      "date": "2026-06-04"
+      "nav": 103.4542,
+      "date": "2026-06-05"
     },
     {
       "fund": "Lucky Islamic Stock Fund",
@@ -1863,13 +1863,13 @@
     },
     {
       "fund": "Mahaana Islamic Cash Fund",
-      "nav": 116.7659,
-      "date": "2026-06-06"
+      "nav": 116.7915,
+      "date": "2026-06-07"
     },
     {
       "fund": "Mahaana Islamic Index Exchange Traded Fund",
       "nav": 17.0,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "Alhamra Islamic Pension Fund",
@@ -1929,7 +1929,7 @@
     {
       "fund": "Alhamra Daily Dividend Fund",
       "nav": 100.0,
-      "date": "2026-06-05"
+      "date": "2026-06-08"
     },
     {
       "fund": "Alhamra Government Securities Plan I",
@@ -1947,9 +1947,14 @@
       "date": "2026-06-05"
     },
     {
+      "fund": "Alhamra Islamic Investment Savings Fund",
+      "nav": 100.0,
+      "date": "2026-06-05"
+    },
+    {
       "fund": "Alhamra Islamic Money Market Fund",
       "nav": 99.51,
-      "date": "2026-06-05"
+      "date": "2026-06-08"
     },
     {
       "fund": "Alhamra Islamic Stock Fund",
@@ -2039,7 +2044,7 @@
     {
       "fund": "Pakistan Cash Management Fund",
       "nav": 50.4678,
-      "date": "2026-06-05"
+      "date": "2026-06-08"
     },
     {
       "fund": "Pakistan Income Enhancement Fund",
@@ -2093,33 +2098,33 @@
     },
     {
       "fund": "National Investment Unit Trust",
-      "nav": 153.57,
-      "date": "2026-06-05"
+      "nav": 153.55,
+      "date": "2026-06-07"
     },
     {
       "fund": "NIT - Government Bond Fund",
-      "nav": 10.8357,
-      "date": "2026-06-05"
+      "nav": 10.8418,
+      "date": "2026-06-07"
     },
     {
       "fund": "NIT - Income Fund",
-      "nav": 11.2557,
-      "date": "2026-06-05"
+      "nav": 11.262,
+      "date": "2026-06-07"
     },
     {
       "fund": "NIT Asset Allocation Fund",
-      "nav": 20.2839,
-      "date": "2026-06-05"
+      "nav": 20.2876,
+      "date": "2026-06-07"
     },
     {
       "fund": "NIT Islamic Equity Fund",
       "nav": 19.62,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NIT Islamic Income Fund",
-      "nav": 10.5467,
-      "date": "2026-06-05"
+      "nav": 10.5527,
+      "date": "2026-06-07"
     },
     {
       "fund": "NIT Islamic Money Market Fund",
@@ -2138,278 +2143,278 @@
     },
     {
       "fund": "NIT Pension Fund",
-      "nav": 51.3118,
-      "date": "2026-06-03"
+      "nav": 50.3862,
+      "date": "2026-06-05"
     },
     {
       "fund": "NIT Social Impact Fund",
-      "nav": 11.3353,
-      "date": "2026-06-05"
+      "nav": 11.3423,
+      "date": "2026-06-07"
     },
     {
       "fund": "NAFA Islamic Pension Fund",
-      "nav": 296.5717,
-      "date": "2026-06-05"
+      "nav": 296.7401,
+      "date": "2026-06-07"
     },
     {
       "fund": "NAFA Islamic Pension Fund",
-      "nav": 1201.3375,
-      "date": "2026-06-05"
+      "nav": 1201.1906,
+      "date": "2026-06-07"
     },
     {
       "fund": "NAFA Islamic Pension Fund",
-      "nav": 302.6737,
-      "date": "2026-06-05"
+      "nav": 302.8421,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP GoKP Islamic Pension Fund",
-      "nav": 139.0486,
-      "date": "2026-06-05"
+      "nav": 139.1271,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Punjab Pension Fund",
-      "nav": 103.7674,
-      "date": "2026-06-05"
+      "nav": 103.8274,
+      "date": "2026-06-07"
     },
     {
       "fund": "NAFA Pension Fund",
-      "nav": 396.6549,
-      "date": "2026-06-05"
+      "nav": 396.883,
+      "date": "2026-06-07"
     },
     {
       "fund": "NAFA Pension Fund",
-      "nav": 1392.711,
-      "date": "2026-06-05"
+      "nav": 1392.5403,
+      "date": "2026-06-07"
     },
     {
       "fund": "NAFA Pension Fund",
-      "nav": 340.2599,
-      "date": "2026-06-05"
+      "nav": 340.4453,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP GoKP Pension Fund",
-      "nav": 141.1414,
-      "date": "2026-06-05"
+      "nav": 141.2288,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Punjab Pension Fund",
-      "nav": 104.074,
-      "date": "2026-06-05"
+      "nav": 104.1349,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Balanced Fund",
-      "nav": 43.1526,
-      "date": "2026-06-05"
+      "nav": 43.1538,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Cash Plan I",
-      "nav": 11.0056,
-      "date": "2026-06-05"
+      "nav": 11.0118,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Cash Plan II",
-      "nav": 10.0,
-      "date": "2026-06-05"
+      "nav": 10.0058,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Financial Sector Fund",
-      "nav": 25.7234,
-      "date": "2026-06-05"
+      "nav": 25.7206,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Financial Sector Income Fund",
-      "nav": 11.7207,
-      "date": "2026-06-05"
+      "nav": 11.7275,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Financial Sector Income Plus Fund",
-      "nav": 10.1308,
-      "date": "2026-06-05"
+      "nav": 10.1369,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Fixed Term Munafa Plan IB",
       "nav": 10.1815,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Fixed Term Munafa Plan IIIB (NBP Mustahkam Fund)",
       "nav": 10.1373,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Fixed Term Munafa Plan IVB (NBP Mustahkam Fund)",
       "nav": 10.0966,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Fixed Term Munafa Plan VIIIA (NBP Mustahkam Fund)",
       "nav": 10.0801,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Fixed Term Munafa Plan XIII (NBP Mustahkam Fund II)",
       "nav": 10.6464,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Fixed Term Munafa Plan XIX",
       "nav": 10.9933,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Fixed Term Munafa Plan XXA (NBP Mustahkam Fund II)",
       "nav": 10.1162,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Government Securities Liquid Fund",
-      "nav": 11.2359,
-      "date": "2026-06-05"
+      "nav": 11.2421,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Government Securities Plan IV",
-      "nav": 10.9375,
-      "date": "2026-06-05"
+      "nav": 10.9437,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Government Securities Plan VIII",
-      "nav": 10.8136,
-      "date": "2026-06-05"
+      "nav": 10.8196,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Government Securities Savings Fund",
-      "nav": 11.4112,
-      "date": "2026-06-05"
+      "nav": 11.4176,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Income Opportunity Fund",
-      "nav": 12.2707,
-      "date": "2026-06-05"
+      "nav": 12.2775,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Income Plan I",
-      "nav": 10.1369,
-      "date": "2026-06-05"
+      "nav": 10.1429,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Daily Dividend Fund",
       "nav": 10.0,
-      "date": "2026-06-06"
+      "date": "2026-06-08"
     },
     {
       "fund": "NBP Islamic Energy Fund",
-      "nav": 22.6708,
-      "date": "2026-06-05"
+      "nav": 22.6664,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Fixed Term Munafa Plan IXA (NBP Islamic Mustahkam Fund)",
       "nav": 10.062,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Fixed Term Munafa Plan VIIA (NBP Islamic Mustahkam Fund)",
       "nav": 10.1748,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Fixed Term Munafa Plan XA (NBP Islamic Mustahkam Fund)",
       "nav": 10.0332,
-      "date": "2026-06-05"
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Gold Fund",
-      "nav": 9.8194,
-      "date": "2026-06-04"
+      "nav": 9.6271,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Government Securities Plan III",
-      "nav": 10.7698,
-      "date": "2026-06-05"
+      "nav": 10.7748,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Income Fund",
-      "nav": 10.9426,
-      "date": "2026-06-05"
+      "nav": 10.9475,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Mahana Amdani Fund",
-      "nav": 10.9972,
-      "date": "2026-06-05"
+      "nav": 11.0027,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Money Market Fund",
-      "nav": 11.14,
-      "date": "2026-06-06"
+      "nav": 11.1464,
+      "date": "2026-06-08"
     },
     {
       "fund": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan I)",
-      "nav": 10.3272,
-      "date": "2026-06-05"
+      "nav": 10.3315,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan II)",
-      "nav": 10.2103,
-      "date": "2026-06-05"
+      "nav": 10.2139,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan III)",
-      "nav": 9.9211,
-      "date": "2026-06-05"
+      "nav": 9.9253,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan IV)",
-      "nav": 10.2897,
-      "date": "2026-06-05"
+      "nav": 10.2941,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Sarmaya Izafa Fund",
-      "nav": 35.4533,
-      "date": "2026-06-05"
+      "nav": 35.4462,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Islamic Savings Fund",
-      "nav": 10.4303,
-      "date": "2026-06-06"
+      "nav": 10.4355,
+      "date": "2026-06-08"
     },
     {
       "fund": "NBP Islamic Stock Fund",
-      "nav": 24.5403,
-      "date": "2026-06-05"
+      "nav": 24.5353,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Mahana Amdani Fund",
-      "nav": 11.3274,
-      "date": "2026-06-05"
+      "nav": 11.334,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Money Market Fund",
-      "nav": 10.9768,
-      "date": "2026-06-05"
+      "nav": 10.9831,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Pakistan Growth Exchange Traded Fund",
-      "nav": 30.9648,
-      "date": "2026-06-06"
+      "nav": 30.963,
+      "date": "2026-06-08"
     },
     {
       "fund": "NBP Riba Free Savings Fund",
-      "nav": 11.2958,
-      "date": "2026-06-05"
+      "nav": 11.302,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Sarmaya Izafa Fund",
-      "nav": 39.8649,
-      "date": "2026-06-05"
+      "nav": 39.8603,
+      "date": "2026-06-07"
     },
     {
       "fund": "NBP Savings Fund",
-      "nav": 11.1379,
-      "date": "2026-06-06"
+      "nav": 11.1442,
+      "date": "2026-06-08"
     },
     {
       "fund": "NBP Stock Fund",
-      "nav": 43.2645,
-      "date": "2026-06-05"
+      "nav": 43.2563,
+      "date": "2026-06-07"
     },
     {
       "fund": "Askari Cash Fund",
@@ -2418,23 +2423,23 @@
     },
     {
       "fund": "Askari High Yield Scheme",
-      "nav": 110.3916,
-      "date": "2026-06-05"
+      "nav": 110.406,
+      "date": "2026-06-06"
     },
     {
       "fund": "Askari Sovereign Yield Enhancer",
-      "nav": 113.4201,
-      "date": "2026-06-05"
+      "nav": 113.4516,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Oman Advantage Asset Allocation Fund",
-      "nav": 46.1073,
-      "date": "2026-06-05"
+      "nav": 46.1045,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Oman Advantage Islamic Income Fund",
-      "nav": 56.4172,
-      "date": "2026-06-05"
+      "nav": 56.4261,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Oman Daily Dividend Fund",
@@ -2443,18 +2448,18 @@
     },
     {
       "fund": "Pak Oman Income Fund",
-      "nav": 11.6721,
-      "date": "2026-06-05"
+      "nav": 11.6744,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Oman Islamic Asset Allocation Fund",
-      "nav": 43.7595,
-      "date": "2026-06-05"
+      "nav": 43.7549,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Oman Micro Finance Fund",
-      "nav": 110.8395,
-      "date": "2026-06-05"
+      "nav": 110.8726,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Qatar Asan Munafa Plan",
@@ -2483,8 +2488,8 @@
     },
     {
       "fund": "Pak Qatar Income Plan",
-      "nav": 126.8768,
-      "date": "2026-06-05"
+      "nav": 126.9141,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Qatar Islamic Fixed Term Fund - Plan I",
@@ -2493,8 +2498,8 @@
     },
     {
       "fund": "Pak Qatar Islamic Stock Fund",
-      "nav": 271.4505,
-      "date": "2026-06-05"
+      "nav": 271.4354,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Qatar Khalis Bachat Plan",
@@ -2513,28 +2518,28 @@
     },
     {
       "fund": "Pak Qatar Islamic Pension Fund",
-      "nav": 168.3507,
-      "date": "2026-06-05"
+      "nav": 168.3998,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Qatar Islamic Pension Fund",
-      "nav": 308.9249,
-      "date": "2026-06-05"
+      "nav": 308.9184,
+      "date": "2026-06-06"
     },
     {
       "fund": "Pak Qatar GoKP Islamic Pension Fund",
-      "nav": 104.0922,
-      "date": "2026-06-04"
+      "nav": 104.1342,
+      "date": "2026-06-05"
     },
     {
       "fund": "Pak Qatar GoPB Islamic Pension Fund",
-      "nav": 103.0108,
-      "date": "2026-06-04"
+      "nav": 103.0237,
+      "date": "2026-06-05"
     },
     {
       "fund": "Pak Qatar Islamic Pension Fund",
-      "nav": 165.1932,
-      "date": "2026-06-05"
+      "nav": 165.2364,
+      "date": "2026-06-06"
     },
     {
       "fund": "Al Ameen Islamic Retirement Savings Fund",
