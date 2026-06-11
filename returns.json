@@ -1,5 +1,5 @@
 {
-  "count": 548,
+  "count": 549,
   "data": [
     {
       "fund": "ABL Cash Fund",
@@ -1922,22 +1922,22 @@
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan I)",
       "returns": {
-        "1d": 136.07,
-        "15d": 46.35,
-        "30d": 41.63,
-        "90d": 12.71,
-        "180d": 9.27,
-        "270d": 13.13,
-        "365d": 12.12,
-        "2y": 20.5,
+        "1d": 20.29,
+        "15d": -12.77,
+        "30d": 16.67,
+        "90d": 10.02,
+        "180d": 8.35,
+        "270d": 11.29,
+        "365d": 11.28,
+        "2y": 19.91,
         "3y": null
       }
     },
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XIX)",
       "returns": {
-        "1d": null,
-        "15d": null,
+        "1d": 5.66,
+        "15d": -3.03,
         "30d": null,
         "90d": null,
         "180d": null,
@@ -1950,12 +1950,12 @@
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XV)",
       "returns": {
-        "1d": 8.87,
-        "15d": 10.65,
-        "30d": 10.27,
-        "90d": 10.27,
-        "180d": 9.5,
-        "270d": 10.72,
+        "1d": 7.52,
+        "15d": 7.93,
+        "30d": 9.3,
+        "90d": 9.99,
+        "180d": 9.63,
+        "270d": 10.47,
         "365d": null,
         "2y": null,
         "3y": null
@@ -1964,8 +1964,8 @@
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XX)",
       "returns": {
-        "1d": null,
-        "15d": null,
+        "1d": 7.3,
+        "15d": 2.48,
         "30d": null,
         "90d": null,
         "180d": null,
@@ -1978,10 +1978,10 @@
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XXI)",
       "returns": {
-        "1d": 30.95,
-        "15d": 8.06,
-        "30d": 193.67,
-        "90d": null,
+        "1d": 8.1,
+        "15d": 8.74,
+        "30d": 8.41,
+        "90d": 8.41,
         "180d": null,
         "270d": null,
         "365d": null,
@@ -1992,8 +1992,8 @@
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XXII)",
       "returns": {
-        "1d": 9.56,
-        "15d": null,
+        "1d": 16.64,
+        "15d": 10.45,
         "30d": null,
         "90d": null,
         "180d": null,
@@ -2034,8 +2034,8 @@
     {
       "fund": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan IX)",
       "returns": {
-        "1d": null,
-        "15d": null,
+        "1d": 6.46,
+        "15d": 5.18,
         "30d": null,
         "90d": null,
         "180d": null,
@@ -2048,11 +2048,11 @@
     {
       "fund": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VI)",
       "returns": {
-        "1d": -2214.97,
-        "15d": -105.83,
-        "30d": -67.29,
-        "90d": -33.4,
-        "180d": null,
+        "1d": -7.67,
+        "15d": 147.82,
+        "30d": -2.41,
+        "90d": -8.81,
+        "180d": 2.59,
         "270d": null,
         "365d": null,
         "2y": null,
@@ -2062,9 +2062,9 @@
     {
       "fund": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VII)",
       "returns": {
-        "1d": -16.17,
-        "15d": 41.55,
-        "30d": 0.63,
+        "1d": 5.04,
+        "15d": 62.43,
+        "30d": 33.88,
         "90d": null,
         "180d": null,
         "270d": null,
@@ -2076,9 +2076,9 @@
     {
       "fund": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VIII)",
       "returns": {
-        "1d": 1600.63,
-        "15d": 138.51,
-        "30d": 11.43,
+        "1d": 8.91,
+        "15d": 2.22,
+        "30d": 59.32,
         "90d": null,
         "180d": null,
         "270d": null,
@@ -4344,11 +4344,11 @@
     {
       "fund": "JS Islamic Sarmaya Mehfooz Fund (JS Islamic Sarmaya Mehfooz Plan 1)",
       "returns": {
-        "1d": -0.76,
-        "15d": -1.56,
-        "30d": -3.95,
-        "90d": -3.85,
-        "180d": -0.67,
+        "1d": -0.16,
+        "15d": -0.34,
+        "30d": -1.89,
+        "90d": -7.57,
+        "180d": -1.35,
         "270d": null,
         "365d": null,
         "2y": null,
@@ -4358,10 +4358,10 @@
     {
       "fund": "JS Islamic Sarmaya Mehfooz Fund Plan 2 2020",
       "returns": {
-        "1d": 0.47,
-        "15d": 0.12,
-        "30d": -1.88,
-        "90d": -3.41,
+        "1d": null,
+        "15d": 0.04,
+        "30d": 0.16,
+        "90d": -4.22,
         "180d": null,
         "270d": null,
         "365d": null,
@@ -4566,6 +4566,20 @@
       }
     },
     {
+      "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXIII)",
+      "returns": {
+        "1d": null,
+        "15d": null,
+        "30d": null,
+        "90d": null,
+        "180d": null,
+        "270d": null,
+        "365d": null,
+        "2y": null,
+        "3y": null
+      }
+    },
+    {
       "fund": "HBL Islamic Fixed Term Fund Plan IV",
       "returns": {
         "1d": 9.86,
@@ -4610,8 +4624,8 @@
     {
       "fund": "JS Islamic Fixed Term Munafa Fund Plan 1",
       "returns": {
-        "1d": null,
-        "15d": null,
+        "1d": 6.31,
+        "15d": 10.59,
         "30d": null,
         "90d": null,
         "180d": null,
@@ -5408,12 +5422,12 @@
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan I)",
       "returns": {
-        "1d": 0.15,
-        "15d": -0.13,
+        "1d": -0.08,
+        "15d": -0.22,
         "30d": 0.23,
-        "90d": 3.41,
-        "180d": 5.28,
-        "270d": 10.41,
+        "90d": 3.47,
+        "180d": 4.82,
+        "270d": 10.31,
         "365d": null,
         "2y": null,
         "3y": null
@@ -5422,12 +5436,12 @@
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan II)",
       "returns": {
-        "1d": 0.04,
+        "1d": 0.01,
         "15d": 0.27,
         "30d": 0.65,
-        "90d": 2.26,
-        "180d": 4.72,
-        "270d": 7.05,
+        "90d": 2.27,
+        "180d": 4.6,
+        "270d": 7.04,
         "365d": null,
         "2y": null,
         "3y": null
@@ -5436,13 +5450,13 @@
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan III)",
       "returns": {
-        "1d": 0.02,
-        "15d": 0.33,
+        "1d": 0.03,
+        "15d": 0.34,
         "30d": 0.71,
         "90d": 2.18,
         "180d": 4.42,
-        "270d": 7.09,
-        "365d": 10.08,
+        "270d": 7.08,
+        "365d": 10.07,
         "2y": null,
         "3y": null
       }
@@ -5451,10 +5465,10 @@
       "fund": "Faysal Khushal Mustaqbil Fund (Faysal Barak\u2019ah Women Savers Plan)",
       "returns": {
         "1d": 0.03,
-        "15d": 0.36,
-        "30d": 0.71,
-        "90d": 1.99,
-        "180d": 3.98,
+        "15d": 0.37,
+        "30d": 0.72,
+        "90d": 2.0,
+        "180d": 3.97,
         "270d": 6.24,
         "365d": 8.79,
         "2y": null,
@@ -6710,11 +6724,11 @@
     {
       "fund": "Lucky Islamic Pension Fund",
       "returns": {
-        "1d": -1.38,
-        "15d": -3.66,
-        "30d": -5.26,
-        "90d": -9.14,
-        "180d": -1.31,
+        "1d": -2.25,
+        "15d": -5.82,
+        "30d": -7.4,
+        "90d": -11.93,
+        "180d": -3.62,
         "270d": null,
         "365d": null,
         "2y": null,

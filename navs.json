@@ -1,5 +1,5 @@
 {
-  "count": 548,
+  "count": 549,
   "data": [
     {
       "fund": "786 Islamic Money Market Fund",
@@ -1263,8 +1263,8 @@
     },
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan I)",
-      "nav": 116.9223,
-      "date": "2026-06-09"
+      "nav": 116.8275,
+      "date": "2026-06-10"
     },
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan II)",
@@ -1273,8 +1273,8 @@
     },
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan III)",
-      "nav": 109.4502,
-      "date": "2026-06-09"
+      "nav": 109.4786,
+      "date": "2026-06-10"
     },
     {
       "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XIX)",
@@ -1295,6 +1295,11 @@
       "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXII)",
       "nav": 100.2185,
       "date": "2026-06-10"
+    },
+    {
+      "fund": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXIII)",
+      "nav": 100.0,
+      "date": "2026-06-11"
     },
     {
       "fund": "Faysal Islamic Savings Growth Fund",
@@ -1438,7 +1443,7 @@
     },
     {
       "fund": "HBL Investment Fund-Class A",
-      "nav": 14.2542,
+      "nav": 14.3482,
       "date": "2026-06-08"
     },
     {
@@ -1613,33 +1618,33 @@
     },
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan I)",
-      "nav": 116.5948,
-      "date": "2026-01-15"
+      "nav": 115.9829,
+      "date": "2026-01-30"
     },
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XIX)",
-      "nav": 100.0,
-      "date": "2026-01-22"
+      "nav": 99.8754,
+      "date": "2026-02-06"
     },
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XV)",
-      "nav": 106.8146,
-      "date": "2026-01-15"
+      "nav": 107.1625,
+      "date": "2026-01-30"
     },
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XX)",
-      "nav": 100.0,
-      "date": "2026-01-22"
+      "nav": 100.102,
+      "date": "2026-02-06"
     },
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XXI)",
-      "nav": 101.1244,
-      "date": "2026-04-30"
+      "nav": 101.4876,
+      "date": "2026-05-15"
     },
     {
       "fund": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XXII)",
-      "nav": 100.0725,
-      "date": "2026-04-30"
+      "nav": 100.5022,
+      "date": "2026-05-15"
     },
     {
       "fund": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan I)",
@@ -1653,23 +1658,23 @@
     },
     {
       "fund": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan IX)",
-      "nav": 100.0,
-      "date": "2026-05-06"
+      "nav": 100.2129,
+      "date": "2026-05-21"
     },
     {
       "fund": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VI)",
-      "nav": 95.6334,
-      "date": "2026-04-22"
+      "nav": 101.2793,
+      "date": "2026-05-08"
     },
     {
       "fund": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VII)",
-      "nav": 97.5373,
-      "date": "2026-04-22"
+      "nav": 99.9939,
+      "date": "2026-05-08"
     },
     {
       "fund": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VIII)",
-      "nav": 100.72,
-      "date": "2026-04-22"
+      "nav": 100.8183,
+      "date": "2026-05-08"
     },
     {
       "fund": "JS Fund of Funds",
@@ -1693,8 +1698,8 @@
     },
     {
       "fund": "JS Islamic Fixed Term Munafa Fund Plan 1",
-      "nav": 100.0,
-      "date": "2026-04-28"
+      "nav": 100.4354,
+      "date": "2026-05-13"
     },
     {
       "fund": "JS Islamic Fund",
@@ -1713,13 +1718,13 @@
     },
     {
       "fund": "JS Islamic Sarmaya Mehfooz Fund (JS Islamic Sarmaya Mehfooz Plan 1)",
-      "nav": 97.0641,
-      "date": "2026-03-25"
+      "nav": 96.7383,
+      "date": "2026-04-09"
     },
     {
       "fund": "JS Islamic Sarmaya Mehfooz Fund Plan 2 2020",
-      "nav": 96.0415,
-      "date": "2026-03-25"
+      "nav": 96.0818,
+      "date": "2026-04-09"
     },
     {
       "fund": "JS Large Cap Fund",
@@ -1853,8 +1858,8 @@
     },
     {
       "fund": "Lucky Islamic Pension Fund",
-      "nav": 102.5906,
-      "date": "2026-06-09"
+      "nav": 100.2795,
+      "date": "2026-06-10"
     },
     {
       "fund": "Lucky Islamic Stock Fund",
