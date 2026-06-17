@@ -5282,12 +5282,12 @@
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan I)",
       "returns": {
-        "1d": 0.76,
-        "15d": 0.67,
-        "30d": 1.91,
-        "90d": 5.37,
-        "180d": 6.32,
-        "270d": 10.52,
+        "1d": 0.31,
+        "15d": 1.54,
+        "30d": 2.2,
+        "90d": 4.95,
+        "180d": 6.42,
+        "270d": 10.62,
         "365d": null,
         "2y": null,
         "3y": null
@@ -5296,12 +5296,12 @@
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan II)",
       "returns": {
-        "1d": 0.11,
-        "15d": 0.4,
-        "30d": 0.86,
-        "90d": 2.48,
-        "180d": 4.84,
-        "270d": 7.18,
+        "1d": 0.06,
+        "15d": 0.51,
+        "30d": 0.9,
+        "90d": 2.45,
+        "180d": 4.83,
+        "270d": 7.22,
         "365d": null,
         "2y": null,
         "3y": null
@@ -5310,13 +5310,13 @@
     {
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan III)",
       "returns": {
-        "1d": 1.39,
+        "1d": 0.03,
         "15d": 0.36,
-        "30d": 0.72,
-        "90d": 2.18,
+        "30d": 0.73,
+        "90d": 2.19,
         "180d": 4.41,
-        "270d": 7.06,
-        "365d": 10.03,
+        "270d": 7.05,
+        "365d": 10.02,
         "2y": null,
         "3y": null
       }
@@ -5329,7 +5329,7 @@
         "30d": 0.73,
         "90d": 2.03,
         "180d": 3.99,
-        "270d": 6.25,
+        "270d": 6.26,
         "365d": 8.79,
         "2y": null,
         "3y": null
@@ -5341,7 +5341,7 @@
         "1d": 0.03,
         "15d": 0.41,
         "30d": 0.78,
-        "90d": 2.13,
+        "90d": 2.14,
         "180d": 4.14,
         "270d": 6.41,
         "365d": 8.92,
@@ -7537,9 +7537,9 @@
       "fund": "Pak Qatar GoPB Islamic Pension Fund",
       "returns": {
         "1d": 4.56,
-        "15d": 4.18,
-        "30d": 5.76,
-        "90d": 6.3,
+        "15d": 4.57,
+        "30d": 5.22,
+        "90d": 6.37,
         "180d": null,
         "270d": null,
         "365d": null,
