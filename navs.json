@@ -1,5 +1,5 @@
 {
-  "count": 539,
+  "count": 540,
   "data": [
     {
       "fund": "786 Islamic Money Market Fund",
@@ -1163,7 +1163,7 @@
     },
     {
       "fund": "Faysal Islamic Punjab Pension Fund",
-      "nav": 104.2838,
+      "nav": 104.2837,
       "date": "2026-06-17"
     },
     {
@@ -1980,6 +1980,11 @@
       "fund": "MCB Pakistan Fixed Return Plan 29",
       "nav": 100.0,
       "date": "2026-06-12"
+    },
+    {
+      "fund": "MCB Pakistan Fixed Return Plan 30",
+      "nav": 100.0,
+      "date": "2026-06-16"
     },
     {
       "fund": "MCB Pakistan Opportunity Fund (MCB Pakistan  Dividend Yield Plan)",

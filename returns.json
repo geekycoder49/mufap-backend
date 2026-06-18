@@ -1,5 +1,5 @@
 {
-  "count": 539,
+  "count": 540,
   "data": [
     {
       "fund": "ABL Cash Fund",
@@ -2065,6 +2065,20 @@
         "1d": null,
         "15d": 10.64,
         "30d": 10.87,
+        "90d": null,
+        "180d": null,
+        "270d": null,
+        "365d": null,
+        "2y": null,
+        "3y": null
+      }
+    },
+    {
+      "fund": "MCB Pakistan Fixed Return Plan 30",
+      "returns": {
+        "1d": null,
+        "15d": null,
+        "30d": null,
         "90d": null,
         "180d": null,
         "270d": null,
@@ -7410,8 +7424,8 @@
     {
       "fund": "Faysal Islamic Punjab Pension Fund",
       "returns": {
-        "1d": 11.79,
-        "15d": 11.47,
+        "1d": 11.75,
+        "15d": 11.46,
         "30d": 5.81,
         "90d": 6.38,
         "180d": 8.49,
