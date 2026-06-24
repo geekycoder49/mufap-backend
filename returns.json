@@ -3336,14 +3336,14 @@
     {
       "fund": "Alhamra Daily Dividend Fund",
       "returns": {
-        "1d": 12.26,
-        "15d": 0.82,
-        "30d": 5.65,
-        "90d": 7.63,
-        "180d": 8.18,
-        "270d": 8.59,
-        "365d": 8.99,
-        "2y": 11.8,
+        "1d": 12.92,
+        "15d": 1.68,
+        "30d": 5.79,
+        "90d": 7.68,
+        "180d": 8.2,
+        "270d": 8.6,
+        "365d": 9.0,
+        "2y": 11.79,
         "3y": 16.5
       }
     },
@@ -4807,7 +4807,7 @@
       "fund": "Alfalah Islamic Asset Allocation Fund Plan I",
       "returns": {
         "1d": null,
-        "15d": null,
+        "15d": -100.0,
         "30d": null,
         "90d": null,
         "180d": null,
@@ -5464,9 +5464,9 @@
     {
       "fund": "NBP Islamic Gold Fund",
       "returns": {
-        "1d": 1.88,
-        "15d": 0.98,
-        "30d": -1.0,
+        "1d": -1.42,
+        "15d": -1.01,
+        "30d": -2.41,
         "90d": null,
         "180d": null,
         "270d": null,
