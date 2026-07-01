@@ -1,5 +1,5 @@
 {
-  "count": 533,
+  "count": 534,
   "data": [
     {
       "fund": "786 Islamic Money Market Fund",
@@ -80,6 +80,11 @@
       "fund": "ABL Fixed Rate Plan XXVI",
       "nav": 10.1044,
       "date": "2026-06-10"
+    },
+    {
+      "fund": "ABL Fixed Rate Plan XXVII",
+      "nav": 10.0,
+      "date": "2026-06-29"
     },
     {
       "fund": "ABL Government Securities Fund",
@@ -193,8 +198,8 @@
     },
     {
       "fund": "AKD Aggressive Income Fund",
-      "nav": 54.6177,
-      "date": "2026-06-28"
+      "nav": 54.6519,
+      "date": "2026-06-29"
     },
     {
       "fund": "AKD Alpha Income Fund",
@@ -203,8 +208,8 @@
     },
     {
       "fund": "AKD Cash Fund",
-      "nav": 52.0981,
-      "date": "2026-06-28"
+      "nav": 52.1081,
+      "date": "2026-06-29"
     },
     {
       "fund": "AKD Index Tracker Fund",
@@ -228,8 +233,8 @@
     },
     {
       "fund": "AKD Opportunity Fund",
-      "nav": 220.8394,
-      "date": "2026-07-01"
+      "nav": 224.809,
+      "date": "2026-06-30"
     },
     {
       "fund": "Golden Arrow Stock Fund",
@@ -1223,8 +1228,8 @@
     },
     {
       "fund": "Faysal Islamic Asset Allocation Fund IV (Faysal Shariah Flex Plan VI)",
-      "nav": 101.4925,
-      "date": "2026-06-29"
+      "nav": 101.616,
+      "date": "2026-06-30"
     },
     {
       "fund": "Faysal Islamic Cash Fund",
@@ -1823,8 +1828,8 @@
     },
     {
       "fund": "Lucky Islamic Pension Fund",
-      "nav": 100.6963,
-      "date": "2026-06-29"
+      "nav": 100.8983,
+      "date": "2026-06-30"
     },
     {
       "fund": "Lucky Islamic Stock Fund",
