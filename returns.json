@@ -2622,9 +2622,9 @@
     {
       "fund": "Alfalah Strategic Allocation Capital Preservation Plan II",
       "returns": {
-        "1d": -0.27,
-        "15d": 1.65,
-        "30d": 3.27,
+        "1d": -0.84,
+        "15d": 2.18,
+        "30d": 2.59,
         "90d": null,
         "180d": null,
         "270d": null,
@@ -2636,13 +2636,13 @@
     {
       "fund": "Alfalah Strategic Allocation Fund Plan - I",
       "returns": {
-        "1d": 0.03,
-        "15d": 0.8,
-        "30d": 1.77,
-        "90d": 3.04,
-        "180d": -7.85,
-        "270d": 4.51,
-        "365d": 25.53,
+        "1d": -0.02,
+        "15d": 0.72,
+        "30d": 1.72,
+        "90d": 3.01,
+        "180d": -7.3,
+        "270d": 4.49,
+        "365d": 25.47,
         "2y": null,
         "3y": null
       }
@@ -5058,55 +5058,55 @@
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II)",
       "returns": {
-        "1d": -0.85,
-        "15d": 2.09,
-        "30d": 7.03,
-        "90d": 9.34,
-        "180d": 2.55,
-        "270d": 9.2,
-        "365d": 19.09,
-        "2y": 76.34,
-        "3y": 170.13
+        "1d": -1.9,
+        "15d": 0.27,
+        "30d": 6.09,
+        "90d": 7.39,
+        "180d": 1.35,
+        "270d": 7.12,
+        "365d": 16.77,
+        "2y": 71.81,
+        "3y": 164.99
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan)",
       "returns": {
-        "1d": -0.18,
-        "15d": 0.68,
-        "30d": -0.92,
-        "90d": 3.7,
-        "180d": 4.04,
-        "270d": 6.68,
-        "365d": 12.01,
-        "2y": 35.68,
-        "3y": 72.99
+        "1d": -0.42,
+        "15d": 6.05,
+        "30d": -1.16,
+        "90d": 3.28,
+        "180d": 3.77,
+        "270d": 6.22,
+        "365d": 11.47,
+        "2y": 34.89,
+        "3y": 72.27
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan)",
       "returns": {
-        "1d": -0.34,
-        "15d": 0.93,
-        "30d": 2.94,
-        "90d": 4.94,
-        "180d": 5.59,
-        "270d": 8.65,
-        "365d": 17.14,
-        "2y": 54.02,
-        "3y": 106.24
+        "1d": -0.79,
+        "15d": 4.62,
+        "30d": 2.56,
+        "90d": 4.15,
+        "180d": 4.96,
+        "270d": 7.78,
+        "365d": 16.12,
+        "2y": 52.31,
+        "3y": 104.62
       }
     },
     {
       "fund": "Alfalah KTrade Islamic Plan VII",
       "returns": {
         "1d": 0.03,
-        "15d": -7.69,
+        "15d": 1.45,
         "30d": -7.31,
         "90d": -4.72,
         "180d": -3.11,
         "270d": -1.2,
-        "365d": 0.17,
+        "365d": 0.19,
         "2y": 11.13,
         "3y": null
       }
