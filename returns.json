@@ -340,7 +340,7 @@
     {
       "fund": "NBP Money Market Liquid Fund",
       "returns": {
-        "1d": 10.91,
+        "1d": 15.29,
         "15d": null,
         "30d": null,
         "90d": null,
@@ -2664,13 +2664,13 @@
     {
       "fund": "Alfalah Strategic Allocation Fund Plan - I",
       "returns": {
-        "1d": -0.02,
-        "15d": 0.72,
-        "30d": 1.72,
+        "1d": 0.07,
+        "15d": 0.66,
+        "30d": 1.76,
         "90d": 3.01,
-        "180d": -7.3,
-        "270d": 4.49,
-        "365d": 25.47,
+        "180d": -7.23,
+        "270d": 4.58,
+        "365d": 25.55,
         "2y": null,
         "3y": null
       }
@@ -4260,10 +4260,10 @@
     {
       "fund": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan III)",
       "returns": {
-        "1d": -0.22,
-        "15d": 0.13,
-        "30d": 0.89,
-        "90d": 1.88,
+        "1d": -0.01,
+        "15d": 0.01,
+        "30d": 0.82,
+        "90d": 1.71,
         "180d": null,
         "270d": null,
         "365d": null,
@@ -4274,10 +4274,10 @@
     {
       "fund": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan IV)",
       "returns": {
-        "1d": -0.19,
-        "15d": 0.38,
-        "30d": 1.29,
-        "90d": 2.29,
+        "1d": -0.02,
+        "15d": 0.22,
+        "30d": 1.21,
+        "90d": 2.2,
         "180d": null,
         "270d": null,
         "365d": null,
@@ -5086,43 +5086,43 @@
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II)",
       "returns": {
-        "1d": -1.9,
-        "15d": 0.27,
-        "30d": 6.09,
-        "90d": 7.39,
-        "180d": 1.35,
-        "270d": 7.12,
-        "365d": 16.77,
-        "2y": 71.81,
-        "3y": 164.99
+        "1d": -0.35,
+        "15d": -1.16,
+        "30d": 4.97,
+        "90d": 5.96,
+        "180d": 0.97,
+        "270d": 6.74,
+        "365d": 16.53,
+        "2y": 70.15,
+        "3y": 163.47
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan)",
       "returns": {
-        "1d": -0.42,
-        "15d": 6.05,
-        "30d": -1.16,
-        "90d": 3.28,
-        "180d": 3.77,
-        "270d": 6.22,
-        "365d": 11.47,
-        "2y": 34.89,
-        "3y": 72.27
+        "1d": -0.06,
+        "15d": 0.11,
+        "30d": -1.37,
+        "90d": 3.03,
+        "180d": 3.69,
+        "270d": 6.13,
+        "365d": 11.49,
+        "2y": 34.58,
+        "3y": 71.86
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan)",
       "returns": {
-        "1d": -0.79,
-        "15d": 4.62,
-        "30d": 2.56,
-        "90d": 4.15,
-        "180d": 4.96,
-        "270d": 7.78,
-        "365d": 16.12,
-        "2y": 52.31,
-        "3y": 104.62
+        "1d": -0.13,
+        "15d": -0.13,
+        "30d": 2.1,
+        "90d": 3.63,
+        "180d": 4.78,
+        "270d": 7.64,
+        "365d": 16.19,
+        "2y": 51.63,
+        "3y": 103.97
       }
     },
     {
