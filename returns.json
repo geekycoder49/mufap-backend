@@ -2622,13 +2622,13 @@
     {
       "fund": "Alfalah Strategic Allocation Fund Plan - I",
       "returns": {
-        "1d": 0.03,
-        "15d": 0.65,
-        "30d": 1.76,
+        "1d": -0.01,
+        "15d": 0.61,
+        "30d": 1.73,
         "90d": 3.01,
-        "180d": -7.19,
-        "270d": 7.47,
-        "365d": 25.54,
+        "180d": -7.11,
+        "270d": 3.92,
+        "365d": 23.76,
         "2y": null,
         "3y": null
       }
@@ -5044,43 +5044,43 @@
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II)",
       "returns": {
-        "1d": 39.86,
-        "15d": 38.27,
-        "30d": 47.39,
-        "90d": 48.22,
-        "180d": 41.22,
-        "270d": 51.82,
-        "365d": 62.82,
-        "2y": 139.95,
-        "3y": 266.75
+        "1d": -0.93,
+        "15d": 37.02,
+        "30d": 44.26,
+        "90d": 48.39,
+        "180d": 41.15,
+        "270d": 47.37,
+        "365d": 61.01,
+        "2y": 138.39,
+        "3y": 262.93
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan)",
       "returns": {
-        "1d": 0.1,
-        "15d": 0.19,
-        "30d": -1.22,
-        "90d": 3.11,
-        "180d": 3.77,
-        "270d": 6.85,
-        "365d": 11.51,
-        "2y": 34.9,
-        "3y": 71.66
+        "1d": -0.24,
+        "15d": -0.09,
+        "30d": -1.71,
+        "90d": 3.06,
+        "180d": 3.7,
+        "270d": 5.86,
+        "365d": 11.11,
+        "2y": 34.56,
+        "3y": 71.06
       }
     },
     {
       "fund": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan)",
       "returns": {
-        "1d": 0.16,
-        "15d": 0.02,
-        "30d": 2.42,
-        "90d": 3.78,
-        "180d": 4.92,
-        "270d": 8.74,
-        "365d": 16.21,
-        "2y": 52.43,
-        "3y": 103.79
+        "1d": -0.46,
+        "15d": -0.47,
+        "30d": 1.42,
+        "90d": 3.71,
+        "180d": 4.65,
+        "270d": 7.16,
+        "365d": 15.39,
+        "2y": 51.87,
+        "3y": 102.6
       }
     },
     {
@@ -5185,12 +5185,12 @@
       "fund": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan III)",
       "returns": {
         "1d": 0.02,
-        "15d": 0.45,
-        "30d": 0.79,
-        "90d": 2.26,
-        "180d": 4.47,
+        "15d": 0.46,
+        "30d": 0.78,
+        "90d": 2.25,
+        "180d": 4.46,
         "270d": 6.98,
-        "365d": 9.88,
+        "365d": 9.87,
         "2y": null,
         "3y": null
       }
@@ -5394,9 +5394,9 @@
     {
       "fund": "NBP Islamic Gold Fund",
       "returns": {
-        "1d": null,
-        "15d": -0.01,
-        "30d": -1.44,
+        "1d": -1.81,
+        "15d": -1.82,
+        "30d": -3.23,
         "90d": null,
         "180d": null,
         "270d": null,
@@ -6458,11 +6458,11 @@
     {
       "fund": "Lucky Islamic Pension Fund",
       "returns": {
-        "1d": null,
-        "15d": 1.09,
-        "30d": -1.3,
-        "90d": -7.17,
-        "180d": -3.63,
+        "1d": -1.73,
+        "15d": -0.66,
+        "30d": -3.0,
+        "90d": -9.65,
+        "180d": -5.29,
         "270d": null,
         "365d": null,
         "2y": null,
