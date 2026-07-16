@@ -4765,8 +4765,8 @@
       "fund": "Alfalah Islamic Asset Allocation Fund Plan I",
       "returns": {
         "1d": 0.03,
-        "15d": 0.45,
-        "30d": 0.91,
+        "15d": 0.47,
+        "30d": 1.0,
         "90d": null,
         "180d": null,
         "270d": null,
